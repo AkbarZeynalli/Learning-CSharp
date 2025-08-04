@@ -21,22 +21,23 @@ namespace ConsoleApp4
             string carBrand = Console.ReadLine();
 
             int bazaQiymeti = 200; // Baza qiymet
-            int elaveQiymet = 0; // Elave qiymet
+            //int elaveQiymet = 0; // Elave qiymet
+            int agePrice = 0;
             if (age > 0 && age <= 18)
             {
-                elaveQiymet += 50; // 18 yasindan kicik olanlar ucun elave qiymet
+                agePrice += 50; // 18 yasindan kicik olanlar ucun elave qiymet
             }
             else if (age >= 19 && age <= 40)
             {
-                elaveQiymet += 100; // 19-40 yas araligindaki insanlar ucun elave qiymet
+                agePrice += 100; // 19-40 yas araligindaki insanlar ucun elave qiymet
             }
             else if (age >= 41 && age <= 60)
             {
-                elaveQiymet += 200; // 41-60 yas araligindaki insanlar ucun elave qiymet
+                agePrice += 200; // 41-60 yas araligindaki insanlar ucun elave qiymet
             }
             else if (age > 60)
             {
-                elaveQiymet += 300; // 60 yasindan boyuk olanlar ucun elave qiymet
+                agePrice += 300; // 60 yasindan boyuk olanlar ucun elave qiymet
             }
             int genderPrice = 0;
             if (gender =='k' ||gender =='K')
@@ -52,18 +53,10 @@ namespace ConsoleApp4
             {smokingPrice += 100; // Siqaret cekenler uc
 
             }
-            else
-            {
-                smokingPrice += 0; // Siqaret cekmeyenler
-            }
             int seriousIllness = 0;
             if (previousIllness == 'b')
             {
                 seriousIllness += 200; // Evvelki ciddi xestelik tarixcesi olanlar ucun elave qiymet
-            }
-            else
-            {
-                seriousIllness += 0; // Evvelki ciddi xestelik tarixcesi olmayanlar ucun elave qiymet yoxdur
             }
             int regionPrice = 0;
             switch (region)
@@ -100,7 +93,13 @@ namespace ConsoleApp4
                     carBrandPrice += 50; // Digelere elave qiymet
                     break;
             }
-            int toplamQiymet = bazaQiymeti + elaveQiymet + genderPrice + smokingPrice + seriousIllness + regionPrice + carBrandPrice;
+            int toplamQiymet = bazaQiymeti + agePrice + genderPrice + smokingPrice + seriousIllness + regionPrice + carBrandPrice;
+            Console.WriteLine($"Yaşına görə məbləğ: {agePrice} AZN");
+            Console.WriteLine($"Cinsə görə məbləğ: {genderPrice} AZN");
+            Console.WriteLine($"Siqaretə görə məbləğ: {smokingPrice} AZN");
+            Console.WriteLine($"Ciddi xəstəlik tarixçəsinə görə məbləğ: {seriousIllness} AZN");
+            Console.WriteLine($"Yaşadığı bölgəyə görə məbləğ: {regionPrice} AZN");
+            Console.WriteLine($"Avtomobil markasına görə məbləğ: {carBrandPrice} AZN");
             Console.WriteLine($"Toplam Sığorta Qiyməti: {toplamQiymet} AZN");
         }
     }
