@@ -1,0 +1,15 @@
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\bin\Debug\net8.0\XerclerinAnalizi.exe
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\bin\Debug\net8.0\XerclerinAnalizi.deps.json
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\bin\Debug\net8.0\XerclerinAnalizi.runtimeconfig.json
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\bin\Debug\net8.0\XerclerinAnalizi.dll
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\bin\Debug\net8.0\XerclerinAnalizi.pdb
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\XerclerinAnalizi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\XerclerinAnalizi.AssemblyInfoInputs.cache
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\XerclerinAnalizi.AssemblyInfo.cs
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\XerclerinAnalizi.csproj.CoreCompileInputs.cache
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\XerclerinAnalizi.sourcelink.json
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\XerclerinAnalizi.dll
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\refint\XerclerinAnalizi.dll
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\XerclerinAnalizi.pdb
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\XerclerinAnalizi.genruntimeconfig.cache
+D:\Learning\XerclerinAnalizi\XerclerinAnalizi\obj\Debug\net8.0\ref\XerclerinAnalizi.dll
