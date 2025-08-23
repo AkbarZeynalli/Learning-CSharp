@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\ConsoleApp7(TaxiFareCalculation)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E205D07C-D967-4F51-9B0C-69432472DCA4}|ConsoleApp7(TaxiFareCalculation)\\ConsoleApp7(TaxiFareCalculation).csproj|d:\\learning\\consoleapp7(taxifarecalculation)\\consoleapp7(taxifarecalculation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E205D07C-D967-4F51-9B0C-69432472DCA4}|ConsoleApp7(TaxiFareCalculation)\\ConsoleApp7(TaxiFareCalculation).csproj|solutionrelative:consoleapp7(taxifarecalculation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ConsoleApp7(TaxiFareCalculation)\\ConsoleApp7(TaxiFareCalculation)\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7(TaxiFareCalculation)\\Program.cs",
+              "ToolTip": "D:\\Learning\\ConsoleApp7(TaxiFareCalculation)\\ConsoleApp7(TaxiFareCalculation)\\Program.cs",
+              "RelativeToolTip": "ConsoleApp7(TaxiFareCalculation)\\Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAADwv6QAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:42:40.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

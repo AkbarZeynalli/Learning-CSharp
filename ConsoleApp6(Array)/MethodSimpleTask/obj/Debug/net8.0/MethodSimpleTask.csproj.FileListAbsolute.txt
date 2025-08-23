@@ -1,0 +1,15 @@
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\bin\Debug\net8.0\MethodSimpleTask.exe
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\bin\Debug\net8.0\MethodSimpleTask.deps.json
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\bin\Debug\net8.0\MethodSimpleTask.runtimeconfig.json
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\bin\Debug\net8.0\MethodSimpleTask.dll
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\bin\Debug\net8.0\MethodSimpleTask.pdb
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\MethodSimpleTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\MethodSimpleTask.AssemblyInfoInputs.cache
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\MethodSimpleTask.AssemblyInfo.cs
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\MethodSimpleTask.csproj.CoreCompileInputs.cache
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\MethodSimpleTask.sourcelink.json
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\MethodSimpleTask.dll
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\refint\MethodSimpleTask.dll
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\MethodSimpleTask.pdb
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\MethodSimpleTask.genruntimeconfig.cache
+D:\Learning\ConsoleApp6(Array)\MethodSimpleTask\obj\Debug\net8.0\ref\MethodSimpleTask.dll

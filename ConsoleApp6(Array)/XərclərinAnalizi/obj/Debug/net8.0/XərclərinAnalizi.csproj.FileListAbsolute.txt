@@ -1,0 +1,15 @@
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\bin\Debug\net8.0\XərclərinAnalizi.exe
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\bin\Debug\net8.0\XərclərinAnalizi.deps.json
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\bin\Debug\net8.0\XərclərinAnalizi.runtimeconfig.json
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\bin\Debug\net8.0\XərclərinAnalizi.dll
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\bin\Debug\net8.0\XərclərinAnalizi.pdb
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\XərclərinAnalizi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\XərclərinAnalizi.AssemblyInfoInputs.cache
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\XərclərinAnalizi.AssemblyInfo.cs
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\XərclərinAnalizi.csproj.CoreCompileInputs.cache
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\XərclərinAnalizi.sourcelink.json
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\XərclərinAnalizi.dll
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\refint\XərclərinAnalizi.dll
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\XərclərinAnalizi.pdb
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\XərclərinAnalizi.genruntimeconfig.cache
+D:\Learning\ConsoleApp6(Array)\XərclərinAnalizi\obj\Debug\net8.0\ref\XərclərinAnalizi.dll

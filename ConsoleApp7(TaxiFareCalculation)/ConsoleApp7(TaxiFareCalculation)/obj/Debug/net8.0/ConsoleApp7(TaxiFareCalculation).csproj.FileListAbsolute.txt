@@ -1,0 +1,15 @@
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\bin\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).exe
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\bin\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).deps.json
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\bin\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).runtimeconfig.json
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\bin\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).dll
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\bin\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).pdb
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).AssemblyInfoInputs.cache
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).AssemblyInfo.cs
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).csproj.CoreCompileInputs.cache
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).sourcelink.json
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).dll
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\refint\ConsoleApp7(TaxiFareCalculation).dll
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).pdb
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ConsoleApp7(TaxiFareCalculation).genruntimeconfig.cache
+D:\Learning\ConsoleApp7(TaxiFareCalculation)\ConsoleApp7(TaxiFareCalculation)\obj\Debug\net8.0\ref\ConsoleApp7(TaxiFareCalculation).dll

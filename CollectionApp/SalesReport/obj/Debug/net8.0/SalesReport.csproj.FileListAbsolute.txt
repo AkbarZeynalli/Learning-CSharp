@@ -1,0 +1,15 @@
+D:\Learning\CollectionApp\SalesReport\bin\Debug\net8.0\SalesReport.exe
+D:\Learning\CollectionApp\SalesReport\bin\Debug\net8.0\SalesReport.deps.json
+D:\Learning\CollectionApp\SalesReport\bin\Debug\net8.0\SalesReport.runtimeconfig.json
+D:\Learning\CollectionApp\SalesReport\bin\Debug\net8.0\SalesReport.dll
+D:\Learning\CollectionApp\SalesReport\bin\Debug\net8.0\SalesReport.pdb
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\SalesReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\SalesReport.AssemblyInfoInputs.cache
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\SalesReport.AssemblyInfo.cs
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\SalesReport.csproj.CoreCompileInputs.cache
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\SalesReport.sourcelink.json
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\SalesReport.dll
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\refint\SalesReport.dll
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\SalesReport.pdb
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\SalesReport.genruntimeconfig.cache
+D:\Learning\CollectionApp\SalesReport\obj\Debug\net8.0\ref\SalesReport.dll

@@ -1,0 +1,15 @@
+D:\Learning\CollectionApp\CollectionApp\bin\Debug\net8.0\CollectionApp.exe
+D:\Learning\CollectionApp\CollectionApp\bin\Debug\net8.0\CollectionApp.deps.json
+D:\Learning\CollectionApp\CollectionApp\bin\Debug\net8.0\CollectionApp.runtimeconfig.json
+D:\Learning\CollectionApp\CollectionApp\bin\Debug\net8.0\CollectionApp.dll
+D:\Learning\CollectionApp\CollectionApp\bin\Debug\net8.0\CollectionApp.pdb
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\CollectionApp.AssemblyInfoInputs.cache
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\CollectionApp.AssemblyInfo.cs
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\CollectionApp.csproj.CoreCompileInputs.cache
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\CollectionApp.sourcelink.json
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\CollectionApp.dll
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\refint\CollectionApp.dll
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\CollectionApp.pdb
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\CollectionApp.genruntimeconfig.cache
+D:\Learning\CollectionApp\CollectionApp\obj\Debug\net8.0\ref\CollectionApp.dll

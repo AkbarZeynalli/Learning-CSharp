@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\ConsoleApp6(Array)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4DAF6C-CBA8-478A-834C-BA70B29D2C3D}|MethodSimpleTask\\MethodSimpleTask.csproj|d:\\learning\\consoleapp6(array)\\methodsimpletask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4DAF6C-CBA8-478A-834C-BA70B29D2C3D}|MethodSimpleTask\\MethodSimpleTask.csproj|solutionrelative:methodsimpletask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D914E2-8CD5-4A7A-827C-45973A7BC9EA}|X\u0259rcl\u0259rinAnalizi\\X\u0259rcl\u0259rinAnalizi.csproj|d:\\learning\\consoleapp6(array)\\x\u0259rcl\u0259rinanalizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D914E2-8CD5-4A7A-827C-45973A7BC9EA}|X\u0259rcl\u0259rinAnalizi\\X\u0259rcl\u0259rinAnalizi.csproj|solutionrelative:x\u0259rcl\u0259rinanalizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ConsoleApp6(Array)\\X\u0259rcl\u0259rinAnalizi\\Program.cs",
+              "RelativeDocumentMoniker": "X\u0259rcl\u0259rinAnalizi\\Program.cs",
+              "ToolTip": "D:\\Learning\\ConsoleApp6(Array)\\X\u0259rcl\u0259rinAnalizi\\Program.cs",
+              "RelativeToolTip": "X\u0259rcl\u0259rinAnalizi\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:10:52.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ConsoleApp6(Array)\\MethodSimpleTask\\Program.cs",
+              "RelativeDocumentMoniker": "MethodSimpleTask\\Program.cs",
+              "ToolTip": "D:\\Learning\\ConsoleApp6(Array)\\MethodSimpleTask\\Program.cs",
+              "RelativeToolTip": "MethodSimpleTask\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:08:20.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

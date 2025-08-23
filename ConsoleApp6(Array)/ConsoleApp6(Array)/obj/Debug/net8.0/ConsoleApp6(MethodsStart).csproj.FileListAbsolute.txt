@@ -1,0 +1,15 @@
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\bin\Debug\net8.0\ConsoleApp6(MethodsStart).exe
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\bin\Debug\net8.0\ConsoleApp6(MethodsStart).deps.json
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\bin\Debug\net8.0\ConsoleApp6(MethodsStart).runtimeconfig.json
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\bin\Debug\net8.0\ConsoleApp6(MethodsStart).dll
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\bin\Debug\net8.0\ConsoleApp6(MethodsStart).pdb
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ConsoleApp6(MethodsStart).GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ConsoleApp6(MethodsStart).AssemblyInfoInputs.cache
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ConsoleApp6(MethodsStart).AssemblyInfo.cs
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ConsoleApp6(MethodsStart).csproj.CoreCompileInputs.cache
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ConsoleApp6(MethodsStart).sourcelink.json
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ConsoleApp6(MethodsStart).dll
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\refint\ConsoleApp6(MethodsStart).dll
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ConsoleApp6(MethodsStart).pdb
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ConsoleApp6(MethodsStart).genruntimeconfig.cache
+D:\Learning\ConsoleApp6(Array)\ConsoleApp6(Array)\obj\Debug\net8.0\ref\ConsoleApp6(MethodsStart).dll
