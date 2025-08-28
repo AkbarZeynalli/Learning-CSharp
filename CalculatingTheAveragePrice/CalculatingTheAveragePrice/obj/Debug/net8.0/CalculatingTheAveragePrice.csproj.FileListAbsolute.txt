@@ -1,0 +1,15 @@
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\bin\Debug\net8.0\CalculatingTheAveragePrice.exe
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\bin\Debug\net8.0\CalculatingTheAveragePrice.deps.json
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\bin\Debug\net8.0\CalculatingTheAveragePrice.runtimeconfig.json
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\bin\Debug\net8.0\CalculatingTheAveragePrice.dll
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\bin\Debug\net8.0\CalculatingTheAveragePrice.pdb
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\CalculatingTheAveragePrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\CalculatingTheAveragePrice.AssemblyInfoInputs.cache
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\CalculatingTheAveragePrice.AssemblyInfo.cs
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\CalculatingTheAveragePrice.csproj.CoreCompileInputs.cache
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\CalculatingTheAveragePrice.sourcelink.json
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\CalculatingTheAveragePrice.dll
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\refint\CalculatingTheAveragePrice.dll
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\CalculatingTheAveragePrice.pdb
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\CalculatingTheAveragePrice.genruntimeconfig.cache
+D:\Learning\CalculatingTheAveragePrice\CalculatingTheAveragePrice\obj\Debug\net8.0\ref\CalculatingTheAveragePrice.dll
