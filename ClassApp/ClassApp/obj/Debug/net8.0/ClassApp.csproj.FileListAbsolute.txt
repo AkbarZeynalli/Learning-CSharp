@@ -1,0 +1,15 @@
+D:\Learning\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.exe
+D:\Learning\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.deps.json
+D:\Learning\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.runtimeconfig.json
+D:\Learning\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.dll
+D:\Learning\ClassApp\ClassApp\bin\Debug\net8.0\ClassApp.pdb
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.AssemblyInfoInputs.cache
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.AssemblyInfo.cs
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.csproj.CoreCompileInputs.cache
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.sourcelink.json
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.dll
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\refint\ClassApp.dll
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.pdb
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ClassApp.genruntimeconfig.cache
+D:\Learning\ClassApp\ClassApp\obj\Debug\net8.0\ref\ClassApp.dll

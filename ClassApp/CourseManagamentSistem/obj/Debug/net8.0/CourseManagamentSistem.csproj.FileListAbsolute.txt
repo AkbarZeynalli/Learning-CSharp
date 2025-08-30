@@ -1,0 +1,15 @@
+D:\Learning\ClassApp\CourseManagamentSistem\bin\Debug\net8.0\CourseManagamentSistem.exe
+D:\Learning\ClassApp\CourseManagamentSistem\bin\Debug\net8.0\CourseManagamentSistem.deps.json
+D:\Learning\ClassApp\CourseManagamentSistem\bin\Debug\net8.0\CourseManagamentSistem.runtimeconfig.json
+D:\Learning\ClassApp\CourseManagamentSistem\bin\Debug\net8.0\CourseManagamentSistem.dll
+D:\Learning\ClassApp\CourseManagamentSistem\bin\Debug\net8.0\CourseManagamentSistem.pdb
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\CourseManagamentSistem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\CourseManagamentSistem.AssemblyInfoInputs.cache
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\CourseManagamentSistem.AssemblyInfo.cs
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\CourseManagamentSistem.csproj.CoreCompileInputs.cache
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\CourseManagamentSistem.sourcelink.json
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\CourseManagamentSistem.dll
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\refint\CourseManagamentSistem.dll
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\CourseManagamentSistem.pdb
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\CourseManagamentSistem.genruntimeconfig.cache
+D:\Learning\ClassApp\CourseManagamentSistem\obj\Debug\net8.0\ref\CourseManagamentSistem.dll
