@@ -1,0 +1,15 @@
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\bin\Debug\net8.0\ProfessionalFootballLeague.exe
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\bin\Debug\net8.0\ProfessionalFootballLeague.deps.json
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\bin\Debug\net8.0\ProfessionalFootballLeague.runtimeconfig.json
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\bin\Debug\net8.0\ProfessionalFootballLeague.dll
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\bin\Debug\net8.0\ProfessionalFootballLeague.pdb
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ProfessionalFootballLeague.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ProfessionalFootballLeague.AssemblyInfoInputs.cache
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ProfessionalFootballLeague.AssemblyInfo.cs
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ProfessionalFootballLeague.csproj.CoreCompileInputs.cache
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ProfessionalFootballLeague.sourcelink.json
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ProfessionalFootballLeague.dll
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\refint\ProfessionalFootballLeague.dll
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ProfessionalFootballLeague.pdb
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ProfessionalFootballLeague.genruntimeconfig.cache
+D:\Learning\ProfessionalFootballLeague\ProfessionalFootballLeague\obj\Debug\net8.0\ref\ProfessionalFootballLeague.dll
