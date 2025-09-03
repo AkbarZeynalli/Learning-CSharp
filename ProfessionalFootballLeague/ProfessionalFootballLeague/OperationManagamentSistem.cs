@@ -39,6 +39,7 @@ namespace ProfessionalFootballLeague
 
         public void AddPlayer()
         {
+
             foreach (var item in store.TeamList)
             {
                 Console.WriteLine($"Id: {item.TeamId}, Name: {item.TeamName}");
@@ -52,6 +53,51 @@ namespace ProfessionalFootballLeague
             player.PlayerName = Console.ReadLine();
             player.PlayerId = store.PlayerList.Count + 1;
             store.PlayerList.Add(player);
+        }
+
+        public void ShowLeagues()
+        {
+            if (store.LeaugeList.Count == 0)
+            {
+                Console.WriteLine("No leagues available.");
+                return;
+            }
+
+            Console.WriteLine("\nLeagues:");
+            for (int i = 0; i < store.LeaugeList.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}. {store.LeaugeList[i]}");
+            }
+        }
+
+        public void ShowTeams()
+        {
+            if (store.TeamList.Count == 0)
+            {
+                Console.WriteLine("No teams available.");
+                return;
+            }
+
+            Console.WriteLine("\nTeams:");
+            for (int i = 0; i < store.TeamList.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}. {store.TeamList[i]}");
+            }
+        }
+
+        public void ShowPlayers()
+        {
+            if (store.PlayerList.Count == 0)
+            {
+                Console.WriteLine("No players available.");
+                return;
+            }
+
+            Console.WriteLine("\nPlayers:");
+            for (int i = 0; i < store.PlayerList.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}. {store.PlayerList[i]}");
+            }
         }
     }
 }
