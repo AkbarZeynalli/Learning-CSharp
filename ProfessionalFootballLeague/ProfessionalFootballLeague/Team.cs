@@ -25,6 +25,6 @@ namespace ProfessionalFootballLeague
         // Hesablanan dəyərlər
         public int Played => Wins + Draws + Losses;   
         public int GoalDifference => GoalsFor - GoalsAgainst;  
-        public int Points => Wins * 3 + Draws;        
+        public int Points => Wins * 3 + Draws;
     }
 }

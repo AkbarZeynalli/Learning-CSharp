@@ -1,12 +1,63 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\ClassApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7F3ECE-F84F-434A-890B-D50117DC3E93}|ClassApp\\ClassApp.csproj|d:\\learning\\classapp\\classapp\\operationmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7F3ECE-F84F-434A-890B-D50117DC3E93}|ClassApp\\ClassApp.csproj|solutionrelative:classapp\\operationmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7F3ECE-F84F-434A-890B-D50117DC3E93}|ClassApp\\ClassApp.csproj|d:\\learning\\classapp\\classapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7F3ECE-F84F-434A-890B-D50117DC3E93}|ClassApp\\ClassApp.csproj|solutionrelative:classapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ClassApp\\ClassApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClassApp\\Program.cs",
+              "ToolTip": "D:\\Learning\\ClassApp\\ClassApp\\Program.cs",
+              "RelativeToolTip": "ClassApp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:24:46.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperationManagement.cs",
+              "DocumentMoniker": "D:\\Learning\\ClassApp\\ClassApp\\OperationManagement.cs",
+              "RelativeDocumentMoniker": "ClassApp\\OperationManagement.cs",
+              "ToolTip": "D:\\Learning\\ClassApp\\ClassApp\\OperationManagement.cs",
+              "RelativeToolTip": "ClassApp\\OperationManagement.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:22:21.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 36,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
