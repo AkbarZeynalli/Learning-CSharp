@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\CourseManagamentSistem(ef core)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem(ef core)\\coursemanagamentsistem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem(ef core)\\coursemanagamentsistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 377,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CourseManagamentSistem\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CourseManagamentSistem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:50:37.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManagamentSistem\\Program.cs",
+              "ToolTip": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Program.cs",
+              "RelativeToolTip": "CourseManagamentSistem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:31:19.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
