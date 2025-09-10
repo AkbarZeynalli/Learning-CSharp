@@ -17,13 +17,13 @@ namespace ProfessionalFootballLeague
             leauge.LeaugeId = Convert.ToInt32(Console.ReadLine());
             Console.Write("Leauge Name: ");
             leauge.LeaugeName = Console.ReadLine();
-            leauge.LeaugeId= store.LeaugeList.Count + 1; 
+            leauge.LeaugeId = store.LeaugeList.Count + 1;
             store.LeaugeList.Add(leauge);
         }
 
         public void AddTeam()
         {
-            foreach(var item in store.LeaugeList)
+            foreach (var item in store.LeaugeList)
             {
                 Console.WriteLine($"Id: {item.LeaugeId}, Name: {item.LeaugeName}");
             }

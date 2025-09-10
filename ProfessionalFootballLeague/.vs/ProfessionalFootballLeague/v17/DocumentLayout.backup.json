@@ -3,90 +3,53 @@
   "WorkspaceRootPath": "D:\\Learning\\ProfessionalFootballLeague\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9087AC86-0FAD-4585-B66B-C443D375FE52}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|d:\\learning\\professionalfootballleague\\professionalfootballleague\\operationmanagamentsistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9087AC86-0FAD-4585-B66B-C443D375FE52}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|solutionrelative:professionalfootballleague\\operationmanagamentsistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9087AC86-0FAD-4585-B66B-C443D375FE52}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|d:\\learning\\professionalfootballleague\\professionalfootballleague\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9087AC86-0FAD-4585-B66B-C443D375FE52}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|solutionrelative:professionalfootballleague\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9087AC86-0FAD-4585-B66B-C443D375FE52}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|d:\\learning\\professionalfootballleague\\professionalfootballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9087AC86-0FAD-4585-B66B-C443D375FE52}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|solutionrelative:professionalfootballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9087AC86-0FAD-4585-B66B-C443D375FE52}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|d:\\learning\\professionalfootballleague\\professionalfootballleague\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9087AC86-0FAD-4585-B66B-C443D375FE52}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|solutionrelative:professionalfootballleague\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E2CE773-5CB9-48D9-8C1B-960B2881253A}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|d:\\learning\\professionalfootballleague\\professionalfootballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2CE773-5CB9-48D9-8C1B-960B2881253A}|ProfessionalFootballLeague\\ProfessionalFootballLeague.csproj|solutionrelative:professionalfootballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 342,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Team.cs",
-              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\Team.cs",
-              "RelativeDocumentMoniker": "ProfessionalFootballLeague\\Team.cs",
-              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\Team.cs",
-              "RelativeToolTip": "ProfessionalFootballLeague\\Team.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwBkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:47:47.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\Program.cs",
-              "RelativeDocumentMoniker": "ProfessionalFootballLeague\\Program.cs",
-              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\Program.cs",
-              "RelativeToolTip": "ProfessionalFootballLeague\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:46:54.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OperationManagamentSistem.cs",
-              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\OperationManagamentSistem.cs",
-              "RelativeDocumentMoniker": "ProfessionalFootballLeague\\OperationManagamentSistem.cs",
-              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\OperationManagamentSistem.cs",
-              "RelativeToolTip": "ProfessionalFootballLeague\\OperationManagamentSistem.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T12:41:34.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Store.cs",
-              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\Store.cs",
-              "RelativeDocumentMoniker": "ProfessionalFootballLeague\\Store.cs",
-              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\Store.cs",
-              "RelativeToolTip": "ProfessionalFootballLeague\\Store.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T12:35:47.592Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 58,
+          "DockedHeight": 377,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\Program.cs",
+              "RelativeDocumentMoniker": "ProfessionalFootballLeague\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague\\ProfessionalFootballLeague\\Program.cs",
+              "RelativeToolTip": "ProfessionalFootballLeague\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:24:47.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",

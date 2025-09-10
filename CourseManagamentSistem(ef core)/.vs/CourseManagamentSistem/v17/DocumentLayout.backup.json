@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Learning\\CourseManagamentSistem\\",
+  "WorkspaceRootPath": "D:\\Learning\\CourseManagamentSistem(ef core)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem\\coursemanagamentsistem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem\\coursemanagamentsistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem(ef core)\\coursemanagamentsistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem\\coursemanagamentsistem\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem(ef core)\\coursemanagamentsistem\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem\\coursemanagamentsistem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem(ef core)\\coursemanagamentsistem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem\\coursemanagamentsistem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem(ef core)\\coursemanagamentsistem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|d:\\learning\\coursemanagamentsistem(ef core)\\coursemanagamentsistem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF8A4F9-5453-47FD-82A7-F9214A129E15}|CourseManagamentSistem\\CourseManagamentSistem.csproj|solutionrelative:coursemanagamentsistem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 295,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 377,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,73 +38,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Models\\Course.cs",
+              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Models\\Course.cs",
               "RelativeDocumentMoniker": "CourseManagamentSistem\\Models\\Course.cs",
-              "ToolTip": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Models\\Course.cs",
+              "ToolTip": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Models\\Course.cs",
               "RelativeToolTip": "CourseManagamentSistem\\Models\\Course.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAewAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T15:00:43.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CourseManagamentSistem\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "CourseManagamentSistem\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T15:00:02.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "CourseManagamentSistem\\Models\\Student.cs",
-              "ToolTip": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Models\\Student.cs",
-              "RelativeToolTip": "CourseManagamentSistem\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:34:36.467Z",
+              "WhenOpened": "2025-09-10T18:07:10.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OperationService.cs",
-              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Services\\OperationService.cs",
-              "RelativeDocumentMoniker": "CourseManagamentSistem\\Services\\OperationService.cs",
-              "ToolTip": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Services\\OperationService.cs",
-              "RelativeToolTip": "CourseManagamentSistem\\Services\\OperationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CourseManagamentSistem\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CourseManagamentSistem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:53:04.465Z",
+              "WhenOpened": "2025-09-10T17:41:03.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OperationService.cs",
+              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Services\\OperationService.cs",
+              "RelativeDocumentMoniker": "CourseManagamentSistem\\Services\\OperationService.cs",
+              "ToolTip": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Services\\OperationService.cs",
+              "RelativeToolTip": "CourseManagamentSistem\\Services\\OperationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:40:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Program.cs",
+              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Program.cs",
               "RelativeDocumentMoniker": "CourseManagamentSistem\\Program.cs",
-              "ToolTip": "D:\\Learning\\CourseManagamentSistem\\CourseManagamentSistem\\Program.cs",
+              "ToolTip": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Program.cs",
               "RelativeToolTip": "CourseManagamentSistem\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T11:31:19.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CourseManagamentSistem\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Learning\\CourseManagamentSistem(ef core)\\CourseManagamentSistem\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "CourseManagamentSistem\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:33:02.92Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 105,
+          "DockedHeight": 23,
           "SelectedChildIndex": -1,
           "Children": [
             {
