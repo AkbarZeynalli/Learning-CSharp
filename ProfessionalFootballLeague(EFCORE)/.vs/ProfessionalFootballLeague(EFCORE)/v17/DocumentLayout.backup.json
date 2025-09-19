@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{811C3EDF-5323-4E11-8661-048939200D14}|ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE).csproj|d:\\learning\\professionalfootballleague(efcore)\\professionalfootballleague(efcore)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811C3EDF-5323-4E11-8661-048939200D14}|ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE).csproj|solutionrelative:professionalfootballleague(efcore)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811C3EDF-5323-4E11-8661-048939200D14}|ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE).csproj|d:\\learning\\professionalfootballleague(efcore)\\professionalfootballleague(efcore)\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811C3EDF-5323-4E11-8661-048939200D14}|ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE).csproj|solutionrelative:professionalfootballleague(efcore)\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,56 @@
       "DocumentGroups": [
         {
           "DockedHeight": 377,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "ProfessionalFootballLeague(EFCORE)\\Models\\Team.cs",
+              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Models\\Team.cs",
+              "RelativeToolTip": "ProfessionalFootballLeague(EFCORE)\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:40:48.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Program.cs",
+              "RelativeDocumentMoniker": "ProfessionalFootballLeague(EFCORE)\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Program.cs",
+              "RelativeToolTip": "ProfessionalFootballLeague(EFCORE)\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:36:59.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperationService.cs",
+              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Services\\OperationService.cs",
+              "RelativeDocumentMoniker": "ProfessionalFootballLeague(EFCORE)\\Services\\OperationService.cs",
+              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Services\\OperationService.cs",
+              "RelativeToolTip": "ProfessionalFootballLeague(EFCORE)\\Services\\OperationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:04:19.916Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
           "DockedHeight": 23,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,32 +84,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OperationService.cs",
-              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Services\\OperationService.cs",
-              "RelativeDocumentMoniker": "ProfessionalFootballLeague(EFCORE)\\Services\\OperationService.cs",
-              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Services\\OperationService.cs",
-              "RelativeToolTip": "ProfessionalFootballLeague(EFCORE)\\Services\\OperationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:12:10.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Program.cs",
-              "RelativeDocumentMoniker": "ProfessionalFootballLeague(EFCORE)\\Program.cs",
-              "ToolTip": "D:\\Learning\\ProfessionalFootballLeague(EFCORE)\\ProfessionalFootballLeague(EFCORE)\\Program.cs",
-              "RelativeToolTip": "ProfessionalFootballLeague(EFCORE)\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:25:54.994Z",
-              "EditorCaption": ""
             }
           ]
         }

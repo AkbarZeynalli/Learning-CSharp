@@ -39,7 +39,7 @@ namespace ProfessionalFootballLeague_EFCORE_.Services
             {
                 Console.WriteLine("Əvvəlcə komanda əlavə edin.");
                 return;
-            }
+            }   
             foreach (var team in teams)
             {
                 Console.WriteLine($"ID: {team.Id}, Komanda adı: {team.TeamName}");
