@@ -8,9 +8,7 @@ namespace OnlineMovieTicketSalesSystem_EFCORE_.MODELS
 {
     internal enum PaymentMethodType
     {
-        
         WithCard=1,
         Cash=2,
-
     }
 }

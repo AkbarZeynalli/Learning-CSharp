@@ -3,42 +3,6 @@
   "WorkspaceRootPath": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|d:\\learning\\onlinemovieticketsalessystem(efcore)\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|solutionrelative:services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|d:\\learning\\onlinemovieticketsalessystem(efcore)\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|d:\\learning\\onlinemovieticketsalessystem(efcore)\\models\\paymentmethodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|solutionrelative:models\\paymentmethodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Migrations\\20250919195904_updatePaymentMethodType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250919195904_updatePaymentMethodType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|d:\\learning\\onlinemovieticketsalessystem(efcore)\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Migrations\\20250919195506_updatePurcaseDateType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250919195506_updatePurcaseDateType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|d:\\learning\\onlinemovieticketsalessystem(efcore)\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|solutionrelative:models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|d:\\learning\\onlinemovieticketsalessystem(efcore)\\migrations\\20250919194520_addraitingcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|solutionrelative:migrations\\20250919194520_addraitingcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|d:\\learning\\onlinemovieticketsalessystem(efcore)\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|d:\\learning\\onlinemovieticketsalessystem(efcore)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{925D3659-F4EB-4F54-819D-250B5D8FB7E0}|OnlineMovieTicketSalesSystem(EFCORE).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 377,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,130 +22,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250919195904_updatePaymentMethodType.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Migrations\\20250919195904_updatePaymentMethodType.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250919195904_updatePaymentMethodType.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Migrations\\20250919195904_updatePaymentMethodType.cs",
-              "RelativeToolTip": "Migrations\\20250919195904_updatePaymentMethodType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:59:04.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PaymentMethodType.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\PaymentMethodType.cs",
-              "RelativeDocumentMoniker": "MODELS\\PaymentMethodType.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\PaymentMethodType.cs",
-              "RelativeToolTip": "MODELS\\PaymentMethodType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:57:19.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\Payment.cs",
-              "RelativeDocumentMoniker": "MODELS\\Payment.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\Payment.cs",
-              "RelativeToolTip": "MODELS\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:56:54.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250919195506_updatePurcaseDateType.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Migrations\\20250919195506_updatePurcaseDateType.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250919195506_updatePurcaseDateType.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Migrations\\20250919195506_updatePurcaseDateType.cs",
-              "RelativeToolTip": "Migrations\\20250919195506_updatePurcaseDateType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:55:06.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\Ticket.cs",
-              "RelativeDocumentMoniker": "MODELS\\Ticket.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\Ticket.cs",
-              "RelativeToolTip": "MODELS\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:50:11.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250919194520_addRaitingColumn.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Migrations\\20250919194520_addRaitingColumn.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250919194520_addRaitingColumn.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Migrations\\20250919194520_addRaitingColumn.cs",
-              "RelativeToolTip": "Migrations\\20250919194520_addRaitingColumn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:45:21.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Showtime.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\Showtime.cs",
-              "RelativeDocumentMoniker": "MODELS\\Showtime.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\Showtime.cs",
-              "RelativeToolTip": "MODELS\\Showtime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:35:42.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\Movie.cs",
-              "RelativeDocumentMoniker": "MODELS\\Movie.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\MODELS\\Movie.cs",
-              "RelativeToolTip": "MODELS\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:34:15.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OperationService.cs",
-              "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\SERVICES\\OperationService.cs",
-              "RelativeDocumentMoniker": "SERVICES\\OperationService.cs",
-              "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\SERVICES\\OperationService.cs",
-              "RelativeToolTip": "SERVICES\\OperationService.cs",
-              "ViewState": "AgIAABYBAAAAAAAAAAAewBsBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T09:50:23.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Learning\\OnlineMovieTicketSalesSystem(EFCORE)\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T18:52:43.842Z",
               "EditorCaption": ""
