@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D3E33C1B-B28B-4C39-A5C3-FB74F4F1A375}|CourseManagementSoftware.csproj|d:\\learning\\coursemanagementsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3E33C1B-B28B-4C39-A5C3-FB74F4F1A375}|CourseManagementSoftware.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E33C1B-B28B-4C39-A5C3-FB74F4F1A375}|CourseManagementSoftware.csproj|d:\\learning\\coursemanagementsoftware\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E33C1B-B28B-4C39-A5C3-FB74F4F1A375}|CourseManagementSoftware.csproj|solutionrelative:services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,25 @@
       "DocumentGroups": [
         {
           "DockedHeight": 377,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperationService.cs",
+              "DocumentMoniker": "D:\\Learning\\CourseManagementSoftware\\SERVICES\\OperationService.cs",
+              "RelativeDocumentMoniker": "SERVICES\\OperationService.cs",
+              "ToolTip": "D:\\Learning\\CourseManagementSoftware\\SERVICES\\OperationService.cs",
+              "RelativeToolTip": "SERVICES\\OperationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:38:44.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +45,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Learning\\CourseManagementSoftware\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T11:03:59.986Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         },
