@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\LibraryManagamentSistem\\LibraryManagamentSistem\\LibraryManagamentSistem.csproj",
+      "projectUniqueName": "D:\\Learning\\LibraryManagamentSistem(ef core)\\LibraryManagamentSistem\\LibraryManagamentSistem.csproj",
       "projectName": "LibraryManagamentSistem",
-      "projectPath": "D:\\Learning\\LibraryManagamentSistem\\LibraryManagamentSistem\\LibraryManagamentSistem.csproj",
+      "projectPath": "D:\\Learning\\LibraryManagamentSistem(ef core)\\LibraryManagamentSistem\\LibraryManagamentSistem.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\LibraryManagamentSistem\\LibraryManagamentSistem\\obj\\",
+      "outputPath": "D:\\Learning\\LibraryManagamentSistem(ef core)\\LibraryManagamentSistem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

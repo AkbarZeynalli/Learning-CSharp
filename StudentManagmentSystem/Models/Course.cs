@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace StudentManagmentSystem.Models
 {
-    internal class Course : BaseEntity
+    internal class Course 
     {
         // Name property əlavə olundu (çünki error bunu tələb edir)
         public string Name { get; set; } = string.Empty;

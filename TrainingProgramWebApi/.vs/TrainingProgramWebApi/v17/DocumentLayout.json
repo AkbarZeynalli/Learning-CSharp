@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\TrainingProgramWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\models\\judge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:models\\judge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\controllers\\judgescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:controllers\\judgescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\controllers\\trainingevaluationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:controllers\\trainingevaluationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\dtos\\trainingevaluationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:dtos\\trainingevaluationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\models\\trainingevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:models\\trainingevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\dtos\\judgedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:dtos\\judgedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\dtos\\trainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:dtos\\trainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|d:\\learning\\trainingprogramwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8A2A3-4833-4885-AD09-F64CA8897E42}|TrainingProgramWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Training.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "Models\\Training.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Models\\Training.cs",
+              "RelativeToolTip": "Models\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T20:03:53.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T20:03:52.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainingEvaluationDto.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\TrainingEvaluationDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TrainingEvaluationDto.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\TrainingEvaluationDto.cs",
+              "RelativeToolTip": "Dtos\\TrainingEvaluationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:55:25.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrainingEvaluation.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Models\\TrainingEvaluation.cs",
+              "RelativeDocumentMoniker": "Models\\TrainingEvaluation.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Models\\TrainingEvaluation.cs",
+              "RelativeToolTip": "Models\\TrainingEvaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:51:07.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrainingsController.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Controllers\\TrainingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainingsController.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Controllers\\TrainingsController.cs",
+              "RelativeToolTip": "Controllers\\TrainingsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA5wEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:25:37.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainingEvaluationsController.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Controllers\\TrainingEvaluationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainingEvaluationsController.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Controllers\\TrainingEvaluationsController.cs",
+              "RelativeToolTip": "Controllers\\TrainingEvaluationsController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:24:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BaseDto.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\BaseDto.cs",
+              "RelativeToolTip": "Dtos\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:18:15.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JudgeDto.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\JudgeDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\JudgeDto.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\JudgeDto.cs",
+              "RelativeToolTip": "Dtos\\JudgeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:17:51.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TeacherDto.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\TeacherDto.cs",
+              "RelativeToolTip": "Dtos\\TeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:17:25.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainingDto.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\TrainingDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TrainingDto.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Dtos\\TrainingDto.cs",
+              "RelativeToolTip": "Dtos\\TrainingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:16:53.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:11:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JudgesController.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Controllers\\JudgesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JudgesController.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Controllers\\JudgesController.cs",
+              "RelativeToolTip": "Controllers\\JudgesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:10:17.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:09:54.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Judge.cs",
+              "DocumentMoniker": "D:\\Learning\\TrainingProgramWebApi\\Models\\Judge.cs",
+              "RelativeDocumentMoniker": "Models\\Judge.cs",
+              "ToolTip": "D:\\Learning\\TrainingProgramWebApi\\Models\\Judge.cs",
+              "RelativeToolTip": "Models\\Judge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:08:25.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

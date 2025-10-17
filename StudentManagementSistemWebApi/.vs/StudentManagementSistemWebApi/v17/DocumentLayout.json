@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\StudentManagementSistemWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|d:\\learning\\studentmanagementsistemwebapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EA3627-8D3A-41A0-86AA-A3C1A643745C}|StudentManagementSistemWebApi.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainingsController.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Controllers\\TrainingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainingsController.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Controllers\\TrainingsController.cs",
+              "RelativeToolTip": "Controllers\\TrainingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:52:20.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\StudentDto.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:58:08.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:53:59.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:42:16.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Dtos\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TeacherDto.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Dtos\\TeacherDto.cs",
+              "RelativeToolTip": "Dtos\\TeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:41:29.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:40:21.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Dtos\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BaseDto.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Dtos\\BaseDto.cs",
+              "RelativeToolTip": "Dtos\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:40:17.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Dtos\\CourseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CourseDto.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Dtos\\CourseDto.cs",
+              "RelativeToolTip": "Dtos\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:40:01.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:38:58.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:17:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:36:30.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:31:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:29:47.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IGenericRepository.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:28:28.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T17:22:47.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T17:22:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:22:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\StudentManagementSistemWebApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learning\\StudentManagementSistemWebApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:16:44.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
