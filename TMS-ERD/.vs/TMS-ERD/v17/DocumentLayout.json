@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Learning\\TMS-ERD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{491A718A-9C47-408E-B077-B2A300B4B93D}|TMS-ERD.csproj|d:\\learning\\tms-erd\\controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491A718A-9C47-408E-B077-B2A300B4B93D}|TMS-ERD.csproj|solutionrelative:controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{491A718A-9C47-408E-B077-B2A300B4B93D}|TMS-ERD.csproj|d:\\learning\\tms-erd\\controllers\\trainingapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{491A718A-9C47-408E-B077-B2A300B4B93D}|TMS-ERD.csproj|solutionrelative:controllers\\trainingapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AttendancesController.cs",
+              "DocumentMoniker": "D:\\Learning\\TMS-ERD\\Controllers\\AttendancesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendancesController.cs",
+              "ToolTip": "D:\\Learning\\TMS-ERD\\Controllers\\AttendancesController.cs",
+              "RelativeToolTip": "Controllers\\AttendancesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:09:20.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TrainingApplicationsController.cs",
               "DocumentMoniker": "D:\\Learning\\TMS-ERD\\Controllers\\TrainingApplicationsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TrainingApplicationsController.cs",
               "ToolTip": "D:\\Learning\\TMS-ERD\\Controllers\\TrainingApplicationsController.cs",
               "RelativeToolTip": "Controllers\\TrainingApplicationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T20:24:12.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TrainingSession.cs",
               "DocumentMoniker": "D:\\Learning\\TMS-ERD\\Models\\TrainingSession.cs",
               "RelativeDocumentMoniker": "Models\\TrainingSession.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TrainingSessionDto.cs",
               "DocumentMoniker": "D:\\Learning\\TMS-ERD\\Dtos\\TrainingSessionDto.cs",
               "RelativeDocumentMoniker": "Dtos\\TrainingSessionDto.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Learning\\TMS-ERD\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",

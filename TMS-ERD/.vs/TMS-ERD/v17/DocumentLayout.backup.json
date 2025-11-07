@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Controllers\\TrainingApplicationsController.cs",
               "ToolTip": "D:\\Learning\\TMS-ERD\\Controllers\\TrainingApplicationsController.cs",
               "RelativeToolTip": "Controllers\\TrainingApplicationsController.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T20:24:12.91Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Models\\TrainingSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:59:20.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T19:59:20.644Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Dtos\\TrainingSessionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:55:34.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T19:55:34.798Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:28:03.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T19:28:03.994Z"
             }
           ]
         },
