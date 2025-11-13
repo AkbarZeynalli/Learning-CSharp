@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\LibraryManagementSystemm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B60A52F-4D3B-4EC7-85F5-3AA60A91EDB0}|LibraryManagementSystemm.csproj|d:\\learning\\librarymanagementsystemm\\controllers\\borrowrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B60A52F-4D3B-4EC7-85F5-3AA60A91EDB0}|LibraryManagementSystemm.csproj|solutionrelative:controllers\\borrowrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B60A52F-4D3B-4EC7-85F5-3AA60A91EDB0}|LibraryManagementSystemm.csproj|d:\\learning\\librarymanagementsystemm\\services\\borrowrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B60A52F-4D3B-4EC7-85F5-3AA60A91EDB0}|LibraryManagementSystemm.csproj|solutionrelative:services\\borrowrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B60A52F-4D3B-4EC7-85F5-3AA60A91EDB0}|LibraryManagementSystemm.csproj|d:\\learning\\librarymanagementsystemm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B60A52F-4D3B-4EC7-85F5-3AA60A91EDB0}|LibraryManagementSystemm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowRecordController.cs",
+              "DocumentMoniker": "D:\\Learning\\LibraryManagementSystemm\\Controllers\\BorrowRecordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BorrowRecordController.cs",
+              "ToolTip": "D:\\Learning\\LibraryManagementSystemm\\Controllers\\BorrowRecordController.cs",
+              "RelativeToolTip": "Controllers\\BorrowRecordController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:42:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowRecordService.cs",
+              "DocumentMoniker": "D:\\Learning\\LibraryManagementSystemm\\Services\\BorrowRecordService.cs",
+              "RelativeDocumentMoniker": "Services\\BorrowRecordService.cs",
+              "ToolTip": "D:\\Learning\\LibraryManagementSystemm\\Services\\BorrowRecordService.cs",
+              "RelativeToolTip": "Services\\BorrowRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:41:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\LibraryManagementSystemm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Learning\\LibraryManagementSystemm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:53:34.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
