@@ -1,10 +1,14 @@
-﻿namespace Hospital_Management_System.Models
-{
-    public class Specialization
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
+﻿using Hospital_Management_System.Models;
 
-        public List<DoctorSpecialization> DoctorSpecializations { get; set; }
-    }
+public class Specialization
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+
+    // Foreign key
+    public int? DepartmentId { get; set; }
+
+    public Department? Department { get; set; }
+
+    public List<Doctor> Doctors { get; set; }
 }

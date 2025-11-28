@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hospital_Management_System.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251128115719_InitialCreate")]
+    [Migration("20251128135239_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -90,9 +90,14 @@ namespace Hospital_Management_System.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("SpecializationId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("DepartmentId");
+
+                    b.HasIndex("SpecializationId");
 
                     b.ToTable("Doctors");
                 });
@@ -170,7 +175,7 @@ namespace Hospital_Management_System.Migrations
                     b.ToTable("Payments");
                 });
 
-            modelBuilder.Entity("Hospital_Management_System.Models.Specialization", b =>
+            modelBuilder.Entity("Specialization", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -178,11 +183,16 @@ namespace Hospital_Management_System.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int?>("DepartmentId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("DepartmentId");
 
                     b.ToTable("Specializations");
                 });
@@ -214,6 +224,10 @@ namespace Hospital_Management_System.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("Specialization", null)
+                        .WithMany("Doctors")
+                        .HasForeignKey("SpecializationId");
+
                     b.Navigation("Department");
                 });
 
@@ -225,8 +239,8 @@ namespace Hospital_Management_System.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Hospital_Management_System.Models.Specialization", "Specialization")
-                        .WithMany("DoctorSpecializations")
+                    b.HasOne("Specialization", "Specialization")
+                        .WithMany()
                         .HasForeignKey("SpecializationId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -245,6 +259,15 @@ namespace Hospital_Management_System.Migrations
                         .IsRequired();
 
                     b.Navigation("Appointment");
+                });
+
+            modelBuilder.Entity("Specialization", b =>
+                {
+                    b.HasOne("Hospital_Management_System.Models.Department", "Department")
+                        .WithMany()
+                        .HasForeignKey("DepartmentId");
+
+                    b.Navigation("Department");
                 });
 
             modelBuilder.Entity("Hospital_Management_System.Models.Appointment", b =>
@@ -270,9 +293,9 @@ namespace Hospital_Management_System.Migrations
                     b.Navigation("Appointments");
                 });
 
-            modelBuilder.Entity("Hospital_Management_System.Models.Specialization", b =>
+            modelBuilder.Entity("Specialization", b =>
                 {
-                    b.Navigation("DoctorSpecializations");
+                    b.Navigation("Doctors");
                 });
 #pragma warning restore 612, 618
         }

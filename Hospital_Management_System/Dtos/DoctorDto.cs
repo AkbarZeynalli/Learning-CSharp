@@ -8,6 +8,6 @@
 
         public int DepartmentId { get; set; }
 
-        public List<int> SpecializationIds { get; set; }
+        //public int 
     }
 }

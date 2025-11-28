@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Learning\\Hospital_Management_System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\dtos\\specializationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:dtos\\specializationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 295,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:17:35.705Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -44,28 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SpecializationDto.cs",
-              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Dtos\\SpecializationDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\SpecializationDto.cs",
-              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Dtos\\SpecializationDto.cs",
-              "RelativeToolTip": "Dtos\\SpecializationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Dtos\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\DoctorDto.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Dtos\\DoctorDto.cs",
+              "RelativeToolTip": "Dtos\\DoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:10:41.876Z",
+              "WhenOpened": "2025-11-28T14:04:37.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Specialization.cs",
-              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Models\\Specialization.cs",
-              "RelativeDocumentMoniker": "Models\\Specialization.cs",
-              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Models\\Specialization.cs",
-              "RelativeToolTip": "Models\\Specialization.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "SpecializationDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Dtos\\SpecializationDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\SpecializationDto.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Dtos\\SpecializationDto.cs",
+              "RelativeToolTip": "Dtos\\SpecializationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:10:17.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T14:00:11.113Z"
             }
           ]
         },

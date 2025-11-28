@@ -14,7 +14,7 @@ namespace Hospital_Management_System.Data
         public DbSet<Patient> Patients { get; set; }
         public DbSet<Payment> Payments { get; set; }
         public DbSet<Specialization> Specializations { get; set; }
-
     }
 
 }
+

@@ -1019,6 +1019,10 @@
       "AppointmentDto": {
         "type": "object",
         "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
           "doctorId": {
             "type": "integer",
             "format": "int32"
@@ -1070,14 +1074,6 @@
           "departmentId": {
             "type": "integer",
             "format": "int32"
-          },
-          "specializationIds": {
-            "type": "array",
-            "items": {
-              "type": "integer",
-              "format": "int32"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -1107,6 +1103,10 @@
       "PaymentDto": {
         "type": "object",
         "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
           "appointmentId": {
             "type": "integer",
             "format": "int32"
@@ -1127,6 +1127,11 @@
           },
           "name": {
             "type": "string",
+            "nullable": true
+          },
+          "departmentId": {
+            "type": "integer",
+            "format": "int32",
             "nullable": true
           }
         },

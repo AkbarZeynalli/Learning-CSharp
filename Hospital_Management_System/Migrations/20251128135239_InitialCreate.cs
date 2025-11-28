@@ -45,11 +45,17 @@ namespace Hospital_Management_System.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    DepartmentId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Specializations", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Specializations_Departments_DepartmentId",
+                        column: x => x.DepartmentId,
+                        principalTable: "Departments",
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
@@ -60,7 +66,8 @@ namespace Hospital_Management_System.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     FullName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Phone = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    DepartmentId = table.Column<int>(type: "int", nullable: false)
+                    DepartmentId = table.Column<int>(type: "int", nullable: false),
+                    SpecializationId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -71,6 +78,11 @@ namespace Hospital_Management_System.Migrations
                         principalTable: "Departments",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Doctors_Specializations_SpecializationId",
+                        column: x => x.SpecializationId,
+                        principalTable: "Specializations",
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
@@ -164,6 +176,11 @@ namespace Hospital_Management_System.Migrations
                 column: "DepartmentId");
 
             migrationBuilder.CreateIndex(
+                name: "IX_Doctors_SpecializationId",
+                table: "Doctors",
+                column: "SpecializationId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_DoctorSpecializations_DoctorId",
                 table: "DoctorSpecializations",
                 column: "DoctorId");
@@ -178,6 +195,11 @@ namespace Hospital_Management_System.Migrations
                 table: "Payments",
                 column: "AppointmentId",
                 unique: true);
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Specializations_DepartmentId",
+                table: "Specializations",
+                column: "DepartmentId");
         }
 
         /// <inheritdoc />
@@ -190,9 +212,6 @@ namespace Hospital_Management_System.Migrations
                 name: "Payments");
 
             migrationBuilder.DropTable(
-                name: "Specializations");
-
-            migrationBuilder.DropTable(
                 name: "Appointments");
 
             migrationBuilder.DropTable(
@@ -200,6 +219,9 @@ namespace Hospital_Management_System.Migrations
 
             migrationBuilder.DropTable(
                 name: "Patients");
+
+            migrationBuilder.DropTable(
+                name: "Specializations");
 
             migrationBuilder.DropTable(
                 name: "Departments");

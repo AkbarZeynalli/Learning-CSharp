@@ -87,9 +87,14 @@ namespace Hospital_Management_System.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("SpecializationId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("DepartmentId");
+
+                    b.HasIndex("SpecializationId");
 
                     b.ToTable("Doctors");
                 });
@@ -167,7 +172,7 @@ namespace Hospital_Management_System.Migrations
                     b.ToTable("Payments");
                 });
 
-            modelBuilder.Entity("Hospital_Management_System.Models.Specialization", b =>
+            modelBuilder.Entity("Specialization", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -175,7 +180,7 @@ namespace Hospital_Management_System.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("DepartmentId")
+                    b.Property<int?>("DepartmentId")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
@@ -216,6 +221,10 @@ namespace Hospital_Management_System.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("Specialization", null)
+                        .WithMany("Doctors")
+                        .HasForeignKey("SpecializationId");
+
                     b.Navigation("Department");
                 });
 
@@ -227,7 +236,7 @@ namespace Hospital_Management_System.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Hospital_Management_System.Models.Specialization", "Specialization")
+                    b.HasOne("Specialization", "Specialization")
                         .WithMany()
                         .HasForeignKey("SpecializationId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -249,13 +258,11 @@ namespace Hospital_Management_System.Migrations
                     b.Navigation("Appointment");
                 });
 
-            modelBuilder.Entity("Hospital_Management_System.Models.Specialization", b =>
+            modelBuilder.Entity("Specialization", b =>
                 {
                     b.HasOne("Hospital_Management_System.Models.Department", "Department")
                         .WithMany()
-                        .HasForeignKey("DepartmentId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("DepartmentId");
 
                     b.Navigation("Department");
                 });
@@ -281,6 +288,11 @@ namespace Hospital_Management_System.Migrations
             modelBuilder.Entity("Hospital_Management_System.Models.Patient", b =>
                 {
                     b.Navigation("Appointments");
+                });
+
+            modelBuilder.Entity("Specialization", b =>
+                {
+                    b.Navigation("Doctors");
                 });
 #pragma warning restore 612, 618
         }
