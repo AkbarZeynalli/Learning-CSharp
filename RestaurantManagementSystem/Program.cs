@@ -24,7 +24,6 @@ namespace RestaurantManagementSystem
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-
             builder.Services.AddScoped<ICustomerService, CustomerService>();
             builder.Services.AddScoped<IEmployeeService,EmployeeService>();
             builder.Services.AddScoped<IInventoryService, InventoryService>();
