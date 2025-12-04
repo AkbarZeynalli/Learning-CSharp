@@ -1,0 +1,15 @@
+D:\Learning\CMSApp\CMSApp.DAL\bin\Debug\net8.0\CMSApp.DAL.deps.json
+D:\Learning\CMSApp\CMSApp.DAL\bin\Debug\net8.0\CMSApp.DAL.runtimeconfig.json
+D:\Learning\CMSApp\CMSApp.DAL\bin\Debug\net8.0\CMSApp.DAL.dll
+D:\Learning\CMSApp\CMSApp.DAL\bin\Debug\net8.0\CMSApp.DAL.pdb
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.csproj.AssemblyReference.cache
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.AssemblyInfoInputs.cache
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.AssemblyInfo.cs
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.csproj.CoreCompileInputs.cache
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.sourcelink.json
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.dll
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\refint\CMSApp.DAL.dll
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.pdb
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\CMSApp.DAL.genruntimeconfig.cache
+D:\Learning\CMSApp\CMSApp.DAL\obj\Debug\net8.0\ref\CMSApp.DAL.dll

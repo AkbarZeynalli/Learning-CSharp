@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMSApp.WebAPI", "UMSApp.WebAPI\UMSApp.WebAPI.csproj", "{B0BC3F84-1066-4B8E-BA28-3B9215EF126D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMSApp.DAL", "UMSApp.DAL\UMSApp.DAL.csproj", "{592B2E3E-CFF6-4C35-B953-09B2101A801A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BC3F84-1066-4B8E-BA28-3B9215EF126D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BC3F84-1066-4B8E-BA28-3B9215EF126D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BC3F84-1066-4B8E-BA28-3B9215EF126D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BC3F84-1066-4B8E-BA28-3B9215EF126D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592B2E3E-CFF6-4C35-B953-09B2101A801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592B2E3E-CFF6-4C35-B953-09B2101A801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592B2E3E-CFF6-4C35-B953-09B2101A801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592B2E3E-CFF6-4C35-B953-09B2101A801A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2645FE54-4087-4133-B828-D40DF51EA646}
+	EndGlobalSection
+EndGlobal

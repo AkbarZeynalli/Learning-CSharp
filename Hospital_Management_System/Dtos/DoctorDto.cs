@@ -8,6 +8,5 @@
 
         public int DepartmentId { get; set; }
 
-        //public int 
     }
 }

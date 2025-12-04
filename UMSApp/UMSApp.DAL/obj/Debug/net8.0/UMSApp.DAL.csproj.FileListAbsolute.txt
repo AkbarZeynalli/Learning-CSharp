@@ -1,0 +1,15 @@
+D:\Learning\UMSApp\UMSApp.DAL\bin\Debug\net8.0\UMSApp.DAL.deps.json
+D:\Learning\UMSApp\UMSApp.DAL\bin\Debug\net8.0\UMSApp.DAL.runtimeconfig.json
+D:\Learning\UMSApp\UMSApp.DAL\bin\Debug\net8.0\UMSApp.DAL.dll
+D:\Learning\UMSApp\UMSApp.DAL\bin\Debug\net8.0\UMSApp.DAL.pdb
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.csproj.AssemblyReference.cache
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.AssemblyInfoInputs.cache
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.AssemblyInfo.cs
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.csproj.CoreCompileInputs.cache
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.sourcelink.json
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.dll
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\refint\UMSApp.DAL.dll
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.pdb
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\UMSApp.DAL.genruntimeconfig.cache
+D:\Learning\UMSApp\UMSApp.DAL\obj\Debug\net8.0\ref\UMSApp.DAL.dll

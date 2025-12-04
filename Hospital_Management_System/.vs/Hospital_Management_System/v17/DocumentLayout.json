@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "D:\\Learning\\Hospital_Management_System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\mapper\\hospitalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:mapper\\hospitalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\dtos\\specializationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:dtos\\specializationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|d:\\learning\\hospital_management_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9627AE-9384-4F28-8E51-56173F67127E}|Hospital_Management_System.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 295,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +74,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:40:35.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:10:35.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\AppointmentService.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:10:18.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T17:10:14.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalProfile.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Mapper\\HospitalProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\HospitalProfile.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Mapper\\HospitalProfile.cs",
+              "RelativeToolTip": "Mapper\\HospitalProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:10:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:09:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DoctorDto.cs",
               "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Dtos\\DoctorDto.cs",
               "RelativeDocumentMoniker": "Dtos\\DoctorDto.cs",
               "ToolTip": "D:\\Learning\\Hospital_Management_System\\Dtos\\DoctorDto.cs",
               "RelativeToolTip": "Dtos\\DoctorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T14:04:37.412Z",
+              "WhenOpened": "2025-11-28T17:08:55.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SpecializationDto.cs",
-              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Dtos\\SpecializationDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\SpecializationDto.cs",
-              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Dtos\\SpecializationDto.cs",
-              "RelativeToolTip": "Dtos\\SpecializationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Dtos\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\DepartmentDto.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Dtos\\DepartmentDto.cs",
+              "RelativeToolTip": "Dtos\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T14:00:11.113Z"
+              "WhenOpened": "2025-11-28T17:08:54.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Dtos\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\AppointmentDto.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Dtos\\AppointmentDto.cs",
+              "RelativeToolTip": "Dtos\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:08:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:08:45.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:08:34.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:07:30.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:07:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Learning\\Hospital_Management_System\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\Learning\\Hospital_Management_System\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:07:22.399Z",
+              "EditorCaption": ""
             }
           ]
         },

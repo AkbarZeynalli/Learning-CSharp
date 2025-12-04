@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CMSApp.DAL.Models
+{
+    public class Course :BaseEntity
+    {
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public decimal Price { get; set; }
+        public int DurationInHours { get; set; }
+        public ICollection<Enrollment> Enrollments { get; set; }
+    }
+}
