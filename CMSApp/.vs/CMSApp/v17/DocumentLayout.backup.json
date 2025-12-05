@@ -1,44 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\CMSApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A83FBE66-13F2-4966-9037-9C1E50649756}|CMSApp.WebAPI\\CMSApp.WebAPI.csproj|d:\\learning\\cmsapp\\cmsapp.webapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A83FBE66-13F2-4966-9037-9C1E50649756}|CMSApp.WebAPI\\CMSApp.WebAPI.csproj|solutionrelative:cmsapp.webapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A83FBE66-13F2-4966-9037-9C1E50649756}|CMSApp.WebAPI\\CMSApp.WebAPI.csproj|d:\\learning\\cmsapp\\cmsapp.webapi\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A83FBE66-13F2-4966-9037-9C1E50649756}|CMSApp.WebAPI\\CMSApp.WebAPI.csproj|solutionrelative:cmsapp.webapi\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|d:\\learning\\cmsapp\\cmsapp.dal\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|solutionrelative:cmsapp.dal\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|d:\\learning\\cmsapp\\cmsapp.dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|solutionrelative:cmsapp.dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|d:\\learning\\cmsapp\\cmsapp.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|solutionrelative:cmsapp.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A83FBE66-13F2-4966-9037-9C1E50649756}|CMSApp.WebAPI\\CMSApp.WebAPI.csproj|d:\\learning\\cmsapp\\cmsapp.webapi\\mapper\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A83FBE66-13F2-4966-9037-9C1E50649756}|CMSApp.WebAPI\\CMSApp.WebAPI.csproj|solutionrelative:cmsapp.webapi\\mapper\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|d:\\learning\\cmsapp\\cmsapp.dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|solutionrelative:cmsapp.dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|d:\\learning\\cmsapp\\cmsapp.dal\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|solutionrelative:cmsapp.dal\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|d:\\learning\\cmsapp\\cmsapp.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2442C73D-A5B9-4112-BD53-B5C06F21DCF8}|CMSApp.DAL\\CMSApp.DAL.csproj|solutionrelative:cmsapp.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -46,128 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.WebAPI\\Services\\CourseService.cs",
-              "RelativeDocumentMoniker": "CMSApp.WebAPI\\Services\\CourseService.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.WebAPI\\Services\\CourseService.cs",
-              "RelativeToolTip": "CMSApp.WebAPI\\Services\\CourseService.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAEwDQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:46:23.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CMSApp.DAL\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "CMSApp.DAL\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:45:37.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "CMSApp.DAL\\Models\\Student.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\Student.cs",
-              "RelativeToolTip": "CMSApp.DAL\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:45:20.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\Instructor.cs",
-              "RelativeDocumentMoniker": "CMSApp.DAL\\Models\\Instructor.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\Instructor.cs",
-              "RelativeToolTip": "CMSApp.DAL\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:45:18.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "CMSApp.DAL\\Models\\BaseEntity.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "CMSApp.DAL\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:45:12.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\Enrollment.cs",
-              "RelativeDocumentMoniker": "CMSApp.DAL\\Models\\Enrollment.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\Enrollment.cs",
-              "RelativeToolTip": "CMSApp.DAL\\Models\\Enrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:45:00.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "CMSApp.DAL\\Models\\Course.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.DAL\\Models\\Course.cs",
-              "RelativeToolTip": "CMSApp.DAL\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:42:20.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomProfile.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.WebAPI\\Mapper\\CustomProfile.cs",
-              "RelativeDocumentMoniker": "CMSApp.WebAPI\\Mapper\\CustomProfile.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.WebAPI\\Mapper\\CustomProfile.cs",
-              "RelativeToolTip": "CMSApp.WebAPI\\Mapper\\CustomProfile.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:44:32.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "D:\\Learning\\CMSApp\\CMSApp.WebAPI\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "CMSApp.WebAPI\\Controllers\\CourseController.cs",
-              "ToolTip": "D:\\Learning\\CMSApp\\CMSApp.WebAPI\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "CMSApp.WebAPI\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:42:47.324Z",
-              "EditorCaption": ""
             }
           ]
         },

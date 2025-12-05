@@ -1,0 +1,15 @@
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.AssemblyInfoInputs.cache
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.AssemblyInfo.cs
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.csproj.CoreCompileInputs.cache
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.sourcelink.json
+D:\Learning\FMS\FMS.DAL\bin\Debug\net8.0\FMS.DAL.deps.json
+D:\Learning\FMS\FMS.DAL\bin\Debug\net8.0\FMS.DAL.runtimeconfig.json
+D:\Learning\FMS\FMS.DAL\bin\Debug\net8.0\FMS.DAL.dll
+D:\Learning\FMS\FMS.DAL\bin\Debug\net8.0\FMS.DAL.pdb
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.csproj.AssemblyReference.cache
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.dll
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\refint\FMS.DAL.dll
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.pdb
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\FMS.DAL.genruntimeconfig.cache
+D:\Learning\FMS\FMS.DAL\obj\Debug\net8.0\ref\FMS.DAL.dll

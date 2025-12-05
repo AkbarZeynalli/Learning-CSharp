@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UMSApp.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bb26906b32074ba040a811374eab885a9fae401")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73b1f2a0d99d443614ca06a3df5f52c8451ba1d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("UMSApp.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UMSApp.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

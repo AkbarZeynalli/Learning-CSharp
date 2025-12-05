@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "FMS.WebAPI.Controllers.ClubController",
+    "Method": "GetAll",
+    "RelativePath": "api/Club",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FMS.WebAPI.Controllers.ClubController",
+    "Method": "Add",
+    "RelativePath": "api/Club",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FMS.WebAPI.Dtos.ClubDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FMS.WebAPI.Controllers.ClubController",
+    "Method": "GetById",
+    "RelativePath": "api/Club/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FMS.WebAPI.Controllers.ClubController",
+    "Method": "Update",
+    "RelativePath": "api/Club/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "FMS.WebAPI.Dtos.ClubDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FMS.WebAPI.Controllers.ClubController",
+    "Method": "Delete",
+    "RelativePath": "api/Club/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
