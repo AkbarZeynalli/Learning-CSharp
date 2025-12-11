@@ -55,5 +55,16 @@ namespace FMS.WebAPI.Controllers
             await _matchServices.UpdateAsync(dto);
             return NoContent();
         }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var exists = await _matchServices.Exists(id);
+            if (!exists)
+            {
+                return NotFound();
+            }
+            await _matchServices.DeleteAsync(id);
+            return NoContent();
+        }
     }
 }

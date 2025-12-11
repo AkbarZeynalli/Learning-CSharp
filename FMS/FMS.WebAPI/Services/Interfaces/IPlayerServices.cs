@@ -6,7 +6,7 @@ namespace FMS.WebAPI.Services.Interfaces
     {
         List<PlayerDto> GetAll();
         Task<PlayerDto?> GetByIdAsync(int id);
-        Task AddAsync(PlayerDto dto);
+        Task<PlayerDto> AddAsync(PlayerDto dto);
         Task UpdateAsync(PlayerDto dto);
         Task DeleteAsync(int id);
         Task<bool> Exists(int id);

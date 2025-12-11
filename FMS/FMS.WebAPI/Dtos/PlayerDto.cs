@@ -2,11 +2,10 @@
 {
     public record PlayerDto : BaseDto
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public DateTime DateOfBirth { get; set; }
+        public string FullName { get; set; }
+        public DateTime BirthDate { get; set; }
+        public int ShirtNumber { get; set; }
         public int ClubId { get; set; }
-        public string ClubName { get; set; }
         public string Position { get; set; }
     }
 }

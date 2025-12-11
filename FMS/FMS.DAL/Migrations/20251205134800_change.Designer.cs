@@ -4,6 +4,7 @@ using FMS.DAL.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FMS.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251205134800_change")]
+    partial class change
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -157,27 +160,7 @@ namespace FMS.DAL.Migrations
                     b.ToTable("Matches");
                 });
 
-            modelBuilder.Entity("FMS.DAL.Models.Position", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Positions");
-                });
-
-            modelBuilder.Entity("Player", b =>
+            modelBuilder.Entity("FMS.DAL.Models.Player", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -202,7 +185,7 @@ namespace FMS.DAL.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("PositionId")
+                    b.Property<int>("PositionId")
                         .HasColumnType("int");
 
                     b.Property<int>("ShirtNumber")
@@ -215,6 +198,26 @@ namespace FMS.DAL.Migrations
                     b.HasIndex("PositionId");
 
                     b.ToTable("Players");
+                });
+
+            modelBuilder.Entity("FMS.DAL.Models.Position", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Positions");
                 });
 
             modelBuilder.Entity("FMS.DAL.Models.Club", b =>
@@ -236,7 +239,7 @@ namespace FMS.DAL.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Player", "Player")
+                    b.HasOne("FMS.DAL.Models.Player", "Player")
                         .WithMany("Goals")
                         .HasForeignKey("PlayerId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -277,7 +280,7 @@ namespace FMS.DAL.Migrations
                     b.Navigation("HomeClub");
                 });
 
-            modelBuilder.Entity("Player", b =>
+            modelBuilder.Entity("FMS.DAL.Models.Player", b =>
                 {
                     b.HasOne("FMS.DAL.Models.Club", "Club")
                         .WithMany("Players")
@@ -287,7 +290,9 @@ namespace FMS.DAL.Migrations
 
                     b.HasOne("FMS.DAL.Models.Position", null)
                         .WithMany("Players")
-                        .HasForeignKey("PositionId");
+                        .HasForeignKey("PositionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Club");
                 });
@@ -316,14 +321,14 @@ namespace FMS.DAL.Migrations
                     b.Navigation("Goals");
                 });
 
+            modelBuilder.Entity("FMS.DAL.Models.Player", b =>
+                {
+                    b.Navigation("Goals");
+                });
+
             modelBuilder.Entity("FMS.DAL.Models.Position", b =>
                 {
                     b.Navigation("Players");
-                });
-
-            modelBuilder.Entity("Player", b =>
-                {
-                    b.Navigation("Goals");
                 });
 #pragma warning restore 612, 618
         }
