@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AİRBNB.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27df006f5e2106cd1bb04e1db32a601d4086999b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd018794529034b0f74fc60a18d9a0ed3a2a367")]
 [assembly: System.Reflection.AssemblyProductAttribute("AİRBNB.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AİRBNB.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
