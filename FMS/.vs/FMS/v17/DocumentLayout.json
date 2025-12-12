@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\FMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A19D33-DF82-4A03-A6BC-591050B55A6E}|FMS.DAL\\FMS.DAL.csproj|d:\\learning\\fms\\fms.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A19D33-DF82-4A03-A6BC-591050B55A6E}|FMS.DAL\\FMS.DAL.csproj|solutionrelative:fms.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A19D33-DF82-4A03-A6BC-591050B55A6E}|FMS.DAL\\FMS.DAL.csproj|d:\\learning\\fms\\fms.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A19D33-DF82-4A03-A6BC-591050B55A6E}|FMS.DAL\\FMS.DAL.csproj|solutionrelative:fms.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A19D33-DF82-4A03-A6BC-591050B55A6E}|FMS.DAL\\FMS.DAL.csproj|d:\\learning\\fms\\fms.dal\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A19D33-DF82-4A03-A6BC-591050B55A6E}|FMS.DAL\\FMS.DAL.csproj|solutionrelative:fms.dal\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A19D33-DF82-4A03-A6BC-591050B55A6E}|FMS.DAL\\FMS.DAL.csproj|d:\\learning\\fms\\fms.dal\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A19D33-DF82-4A03-A6BC-591050B55A6E}|FMS.DAL\\FMS.DAL.csproj|solutionrelative:fms.dal\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Learning\\FMS\\FMS.DAL\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "FMS.DAL\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\Learning\\FMS\\FMS.DAL\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "FMS.DAL\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:08:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\FMS\\FMS.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FMS.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learning\\FMS\\FMS.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FMS.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:08:12.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Learning\\FMS\\FMS.DAL\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "FMS.DAL\\Models\\Country.cs",
+              "ToolTip": "D:\\Learning\\FMS\\FMS.DAL\\Models\\Country.cs",
+              "RelativeToolTip": "FMS.DAL\\Models\\Country.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:06:33.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Club.cs",
+              "DocumentMoniker": "D:\\Learning\\FMS\\FMS.DAL\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "FMS.DAL\\Models\\Club.cs",
+              "ToolTip": "D:\\Learning\\FMS\\FMS.DAL\\Models\\Club.cs",
+              "RelativeToolTip": "FMS.DAL\\Models\\Club.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:06:10.929Z",
+              "EditorCaption": ""
             }
           ]
         },

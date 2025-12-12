@@ -1,0 +1,15 @@
+D:\Learning\AİRBNB\AİRBNB.DAL\bin\Debug\net8.0\AİRBNB.DAL.deps.json
+D:\Learning\AİRBNB\AİRBNB.DAL\bin\Debug\net8.0\AİRBNB.DAL.runtimeconfig.json
+D:\Learning\AİRBNB\AİRBNB.DAL\bin\Debug\net8.0\AİRBNB.DAL.dll
+D:\Learning\AİRBNB\AİRBNB.DAL\bin\Debug\net8.0\AİRBNB.DAL.pdb
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.csproj.AssemblyReference.cache
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.AssemblyInfoInputs.cache
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.AssemblyInfo.cs
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.csproj.CoreCompileInputs.cache
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.sourcelink.json
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.dll
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\refint\AİRBNB.DAL.dll
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.pdb
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\AİRBNB.DAL.genruntimeconfig.cache
+D:\Learning\AİRBNB\AİRBNB.DAL\obj\Debug\net8.0\ref\AİRBNB.DAL.dll

@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\A\u0130RBNB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B09EC5A-8EC6-4E76-84EA-263D71A1D219}|A\u0130RBNB.WebAPI\\A\u0130RBNB.WebAPI.csproj|d:\\learning\\a\u0130rbnb\\a\u0130rbnb.webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B09EC5A-8EC6-4E76-84EA-263D71A1D219}|A\u0130RBNB.WebAPI\\A\u0130RBNB.WebAPI.csproj|solutionrelative:a\u0130rbnb.webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B09EC5A-8EC6-4E76-84EA-263D71A1D219}|A\u0130RBNB.WebAPI\\A\u0130RBNB.WebAPI.csproj|d:\\learning\\a\u0130rbnb\\a\u0130rbnb.webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B09EC5A-8EC6-4E76-84EA-263D71A1D219}|A\u0130RBNB.WebAPI\\A\u0130RBNB.WebAPI.csproj|solutionrelative:a\u0130rbnb.webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B09EC5A-8EC6-4E76-84EA-263D71A1D219}|A\u0130RBNB.WebAPI\\A\u0130RBNB.WebAPI.csproj|d:\\learning\\a\u0130rbnb\\a\u0130rbnb.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B09EC5A-8EC6-4E76-84EA-263D71A1D219}|A\u0130RBNB.WebAPI\\A\u0130RBNB.WebAPI.csproj|solutionrelative:a\u0130rbnb.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EA4463-61BD-4F4B-B7C2-29E4B0129623}|A\u0130RBNB.DAL\\A\u0130RBNB.DAL.csproj|d:\\learning\\a\u0130rbnb\\a\u0130rbnb.dal\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EA4463-61BD-4F4B-B7C2-29E4B0129623}|A\u0130RBNB.DAL\\A\u0130RBNB.DAL.csproj|solutionrelative:a\u0130rbnb.dal\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Learning\\A\u0130RBNB\\A\u0130RBNB.WebAPI\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "A\u0130RBNB.WebAPI\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Learning\\A\u0130RBNB\\A\u0130RBNB.WebAPI\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "A\u0130RBNB.WebAPI\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA7wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:16:57.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Learning\\A\u0130RBNB\\A\u0130RBNB.DAL\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "A\u0130RBNB.DAL\\Models\\Room.cs",
+              "ToolTip": "D:\\Learning\\A\u0130RBNB\\A\u0130RBNB.DAL\\Models\\Room.cs",
+              "RelativeToolTip": "A\u0130RBNB.DAL\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:14:49.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\Learning\\A\u0130RBNB\\A\u0130RBNB.WebAPI\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "A\u0130RBNB.WebAPI\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\Learning\\A\u0130RBNB\\A\u0130RBNB.WebAPI\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "A\u0130RBNB.WebAPI\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:07:51.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "D:\\Learning\\A\u0130RBNB\\A\u0130RBNB.WebAPI\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "A\u0130RBNB.WebAPI\\Controllers\\LocationController.cs",
+              "ToolTip": "D:\\Learning\\A\u0130RBNB\\A\u0130RBNB.WebAPI\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "A\u0130RBNB.WebAPI\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:58:33.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

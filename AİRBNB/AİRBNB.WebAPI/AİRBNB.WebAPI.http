@@ -1,0 +1,6 @@
+@AİRBNB.WebAPI_HostAddress = http://localhost:5064
+
+GET {{AİRBNB.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

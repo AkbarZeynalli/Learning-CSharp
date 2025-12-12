@@ -1,0 +1,16 @@
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.csproj.AssemblyReference.cache
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.AssemblyInfoInputs.cache
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.AssemblyInfo.cs
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.csproj.CoreCompileInputs.cache
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.sourcelink.json
+D:\Learning\AİRBNB\AİRBNB.BLL\bin\Debug\net8.0\AİRBNB.BLL.deps.json
+D:\Learning\AİRBNB\AİRBNB.BLL\bin\Debug\net8.0\AİRBNB.BLL.dll
+D:\Learning\AİRBNB\AİRBNB.BLL\bin\Debug\net8.0\AİRBNB.BLL.pdb
+D:\Learning\AİRBNB\AİRBNB.BLL\bin\Debug\net8.0\AİRBNB.DAL.dll
+D:\Learning\AİRBNB\AİRBNB.BLL\bin\Debug\net8.0\AİRBNB.DAL.pdb
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.csproj.Up2Date
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.dll
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\refint\AİRBNB.BLL.dll
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\AİRBNB.BLL.pdb
+D:\Learning\AİRBNB\AİRBNB.BLL\obj\Debug\net8.0\ref\AİRBNB.BLL.dll

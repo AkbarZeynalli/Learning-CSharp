@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\UMSApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{592B2E3E-CFF6-4C35-B953-09B2101A801A}|UMSApp.DAL\\UMSApp.DAL.csproj|d:\\learning\\umsapp\\umsapp.dal\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{592B2E3E-CFF6-4C35-B953-09B2101A801A}|UMSApp.DAL\\UMSApp.DAL.csproj|solutionrelative:umsapp.dal\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{592B2E3E-CFF6-4C35-B953-09B2101A801A}|UMSApp.DAL\\UMSApp.DAL.csproj|d:\\learning\\umsapp\\umsapp.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{592B2E3E-CFF6-4C35-B953-09B2101A801A}|UMSApp.DAL\\UMSApp.DAL.csproj|solutionrelative:umsapp.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "D:\\Learning\\UMSApp\\UMSApp.DAL\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "UMSApp.DAL\\Models\\Teacher.cs",
-              "ToolTip": "D:\\Learning\\UMSApp\\UMSApp.DAL\\Models\\Teacher.cs",
-              "RelativeToolTip": "UMSApp.DAL\\Models\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:44:22.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Learning\\UMSApp\\UMSApp.DAL\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "UMSApp.DAL\\Models\\BaseEntity.cs",
-              "ToolTip": "D:\\Learning\\UMSApp\\UMSApp.DAL\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "UMSApp.DAL\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:11:09.039Z",
-              "EditorCaption": ""
             }
           ]
         },

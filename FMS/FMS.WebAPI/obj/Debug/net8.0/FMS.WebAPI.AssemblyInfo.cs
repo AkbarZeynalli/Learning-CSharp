@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FMS.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a76211d0beb316bf2e92560d7e1b922d98a637e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27df006f5e2106cd1bb04e1db32a601d4086999b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FMS.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FMS.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
