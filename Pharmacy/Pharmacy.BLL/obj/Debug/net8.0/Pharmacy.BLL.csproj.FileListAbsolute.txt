@@ -1,0 +1,16 @@
+D:\Learning\Pharmacy\Pharmacy.BLL\bin\Debug\net8.0\Pharmacy.BLL.deps.json
+D:\Learning\Pharmacy\Pharmacy.BLL\bin\Debug\net8.0\Pharmacy.BLL.dll
+D:\Learning\Pharmacy\Pharmacy.BLL\bin\Debug\net8.0\Pharmacy.BLL.pdb
+D:\Learning\Pharmacy\Pharmacy.BLL\bin\Debug\net8.0\Pharmacy.DAL.dll
+D:\Learning\Pharmacy\Pharmacy.BLL\bin\Debug\net8.0\Pharmacy.DAL.pdb
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.BLL.csproj.AssemblyReference.cache
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.BLL.AssemblyInfoInputs.cache
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.BLL.AssemblyInfo.cs
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.BLL.csproj.CoreCompileInputs.cache
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.BLL.sourcelink.json
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.7A9F114A.Up2Date
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.BLL.dll
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\refint\Pharmacy.BLL.dll
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\Pharmacy.BLL.pdb
+D:\Learning\Pharmacy\Pharmacy.BLL\obj\Debug\net8.0\ref\Pharmacy.BLL.dll

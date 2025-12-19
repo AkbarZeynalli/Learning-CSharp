@@ -1,0 +1,15 @@
+D:\Learning\Pharmacy\Pharmacy.DAL\bin\Debug\net8.0\Pharmacy.DAL.deps.json
+D:\Learning\Pharmacy\Pharmacy.DAL\bin\Debug\net8.0\Pharmacy.DAL.runtimeconfig.json
+D:\Learning\Pharmacy\Pharmacy.DAL\bin\Debug\net8.0\Pharmacy.DAL.dll
+D:\Learning\Pharmacy\Pharmacy.DAL\bin\Debug\net8.0\Pharmacy.DAL.pdb
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.csproj.AssemblyReference.cache
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.AssemblyInfoInputs.cache
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.AssemblyInfo.cs
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.csproj.CoreCompileInputs.cache
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.sourcelink.json
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.dll
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\refint\Pharmacy.DAL.dll
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.pdb
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\Pharmacy.DAL.genruntimeconfig.cache
+D:\Learning\Pharmacy\Pharmacy.DAL\obj\Debug\net8.0\ref\Pharmacy.DAL.dll

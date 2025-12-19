@@ -1,0 +1,144 @@
+2025-12-19 23:10:44.140 +04:00 [WRN] No store type was specified for the decimal property 'SalePrice' on entity type 'Drug'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-12-19 23:10:44.575 +04:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-12-19 23:14:16.884 +04:00 [WRN] No store type was specified for the decimal property 'SalePrice' on entity type 'Drug'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-12-19 23:14:17.337 +04:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-12-19 23:15:46.618 +04:00 [INF] Now listening on: https://localhost:7139
+2025-12-19 23:15:46.693 +04:00 [INF] Now listening on: http://localhost:5051
+2025-12-19 23:15:46.895 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-19 23:15:46.899 +04:00 [INF] Hosting environment: Development
+2025-12-19 23:15:46.901 +04:00 [INF] Content root path: D:\Learning\Pharmacy\Pharmacy.WebAPI
+2025-12-19 23:15:47.810 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/index.html - null null
+2025-12-19 23:15:48.287 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/index.html - 200 null text/html;charset=utf-8 494.2678ms
+2025-12-19 23:15:48.468 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_vs/browserLink - null null
+2025-12-19 23:15:48.468 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-19 23:15:48.531 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 63.8638ms
+2025-12-19 23:15:48.601 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_vs/browserLink - 200 null text/javascript; charset=UTF-8 133.6806ms
+2025-12-19 23:15:48.834 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - null null
+2025-12-19 23:15:48.876 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 42.4821ms
+2025-12-19 23:15:52.857 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/api/Category - null null
+2025-12-19 23:15:52.875 +04:00 [INF] Executing endpoint 'Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI)'
+2025-12-19 23:15:52.907 +04:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller Pharmacy.WebAPI.Controllers.CategoryController (Pharmacy.WebAPI).
+2025-12-19 23:15:53.844 +04:00 [WRN] No store type was specified for the decimal property 'SalePrice' on entity type 'Drug'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-12-19 23:15:54.154 +04:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-12-19 23:15:55.084 +04:00 [INF] Executed DbCommand (49ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[CreatedDate], [c].[Name]
+FROM [Categories] AS [c]
+2025-12-19 23:15:55.328 +04:00 [INF] Retrieved categories:
+[
+  {
+    "Name": "Paracetamol",
+    "Id": 1
+  }
+]
+2025-12-19 23:15:55.338 +04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Pharmacy.BLL.Dtos.CategoryDto, Pharmacy.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-19 23:15:55.356 +04:00 [INF] Executed action Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI) in 2438.2372ms
+2025-12-19 23:15:55.360 +04:00 [INF] Executed endpoint 'Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI)'
+2025-12-19 23:15:55.374 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/api/Category - 200 null application/json; charset=utf-8 2517.6392ms
+2025-12-19 23:36:21.306 +04:00 [INF] Now listening on: https://localhost:7139
+2025-12-19 23:36:21.382 +04:00 [INF] Now listening on: http://localhost:5051
+2025-12-19 23:36:22.471 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-19 23:36:22.475 +04:00 [INF] Hosting environment: Development
+2025-12-19 23:36:22.478 +04:00 [INF] Content root path: D:\Learning\Pharmacy\Pharmacy.WebAPI
+2025-12-19 23:36:22.595 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/index.html - null null
+2025-12-19 23:36:22.959 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/index.html - 200 null text/html;charset=utf-8 373.6962ms
+2025-12-19 23:36:23.067 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-19 23:36:23.067 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_vs/browserLink - null null
+2025-12-19 23:36:23.098 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 31.0949ms
+2025-12-19 23:36:23.181 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_vs/browserLink - 200 null text/javascript; charset=UTF-8 113.471ms
+2025-12-19 23:36:23.349 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - null null
+2025-12-19 23:36:23.377 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 28.5008ms
+2025-12-19 23:36:29.127 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/api/Category - null null
+2025-12-19 23:36:29.141 +04:00 [INF] Executing endpoint 'Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI)'
+2025-12-19 23:36:29.181 +04:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller Pharmacy.WebAPI.Controllers.CategoryController (Pharmacy.WebAPI).
+2025-12-19 23:36:30.549 +04:00 [WRN] No store type was specified for the decimal property 'SalePrice' on entity type 'Drug'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-12-19 23:36:30.921 +04:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-12-19 23:36:32.310 +04:00 [INF] Executed DbCommand (76ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[CreatedDate], [c].[Name]
+FROM [Categories] AS [c]
+2025-12-19 23:36:32.453 +04:00 [INF] Retrieved all categories: [
+  {
+    "Name": "Paracetamol",
+    "Id": 1
+  }
+]
+2025-12-19 23:36:32.616 +04:00 [INF] Retrieved categories:
+[
+  {
+    "Name": "Paracetamol",
+    "Id": 1
+  }
+]
+2025-12-19 23:36:32.628 +04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Pharmacy.BLL.Dtos.CategoryDto, Pharmacy.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-19 23:36:32.643 +04:00 [INF] Executed action Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI) in 3448.7321ms
+2025-12-19 23:36:32.648 +04:00 [INF] Executed endpoint 'Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI)'
+2025-12-19 23:36:32.663 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/api/Category - 200 null application/json; charset=utf-8 3537.2326ms
+2025-12-19 23:38:32.048 +04:00 [INF] Now listening on: https://localhost:7139
+2025-12-19 23:38:32.092 +04:00 [INF] Now listening on: http://localhost:5051
+2025-12-19 23:38:32.273 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-19 23:38:32.275 +04:00 [INF] Hosting environment: Development
+2025-12-19 23:38:32.276 +04:00 [INF] Content root path: D:\Learning\Pharmacy\Pharmacy.WebAPI
+2025-12-19 23:38:33.091 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/index.html - null null
+2025-12-19 23:38:33.460 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/index.html - 200 null text/html;charset=utf-8 383.3812ms
+2025-12-19 23:38:33.549 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-19 23:38:33.549 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_vs/browserLink - null null
+2025-12-19 23:38:33.582 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 24.4245ms
+2025-12-19 23:38:33.722 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_vs/browserLink - 200 null text/javascript; charset=UTF-8 173.0868ms
+2025-12-19 23:38:33.934 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - null null
+2025-12-19 23:38:33.984 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 51.2597ms
+2025-12-19 23:38:53.392 +04:00 [INF] Request starting HTTP/2 POST https://localhost:7139/api/Category - application/json 23
+2025-12-19 23:38:53.409 +04:00 [INF] Executing endpoint 'Pharmacy.WebAPI.Controllers.CategoryController.Add (Pharmacy.WebAPI)'
+2025-12-19 23:38:53.466 +04:00 [INF] Route matched with {action = "Add", controller = "Category"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Pharmacy.BLL.Dtos.CategoryDto) on controller Pharmacy.WebAPI.Controllers.CategoryController (Pharmacy.WebAPI).
+2025-12-19 23:38:54.309 +04:00 [WRN] No store type was specified for the decimal property 'SalePrice' on entity type 'Drug'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-12-19 23:38:54.657 +04:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-12-19 23:38:54.728 +04:00 [INF] Adding new category:
+{
+  "Name": "qripxod",
+  "Id": 0
+}
+2025-12-19 23:38:55.741 +04:00 [INF] Executed DbCommand (147ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Categories] ([CreatedDate], [Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2025-12-19 23:38:55.968 +04:00 [INF] Added new category with ID 2
+2025-12-19 23:38:55.983 +04:00 [INF] Executing CreatedAtActionResult, writing value of type 'Pharmacy.BLL.Dtos.CategoryDto'.
+2025-12-19 23:38:56.028 +04:00 [INF] Executed action Pharmacy.WebAPI.Controllers.CategoryController.Add (Pharmacy.WebAPI) in 2551.668ms
+2025-12-19 23:38:56.033 +04:00 [INF] Executed endpoint 'Pharmacy.WebAPI.Controllers.CategoryController.Add (Pharmacy.WebAPI)'
+2025-12-19 23:38:56.045 +04:00 [INF] Request finished HTTP/2 POST https://localhost:7139/api/Category - 201 null application/json; charset=utf-8 2653.6772ms
+2025-12-19 23:55:40.891 +04:00 [INF] Now listening on: https://localhost:7139
+2025-12-19 23:55:41.087 +04:00 [INF] Now listening on: http://localhost:5051
+2025-12-19 23:55:41.269 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-19 23:55:41.314 +04:00 [INF] Hosting environment: Development
+2025-12-19 23:55:41.321 +04:00 [INF] Content root path: D:\Learning\Pharmacy\Pharmacy.WebAPI
+2025-12-19 23:55:41.435 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/index.html - null null
+2025-12-19 23:55:42.197 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/index.html - 200 null text/html;charset=utf-8 772.3456ms
+2025-12-19 23:55:42.390 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-19 23:55:42.390 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_vs/browserLink - null null
+2025-12-19 23:55:42.408 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 18.4211ms
+2025-12-19 23:55:42.482 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_vs/browserLink - 200 null text/javascript; charset=UTF-8 92.6209ms
+2025-12-19 23:55:42.647 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - null null
+2025-12-19 23:55:42.676 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 29.3599ms
+2025-12-19 23:55:50.555 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/api/Drug - null null
+2025-12-19 23:55:50.569 +04:00 [INF] Executing endpoint 'Pharmacy.WebAPI.Controllers.DrugController.GetAll (Pharmacy.WebAPI)'
+2025-12-19 23:55:50.606 +04:00 [INF] Route matched with {action = "GetAll", controller = "Drug"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller Pharmacy.WebAPI.Controllers.DrugController (Pharmacy.WebAPI).
+2025-12-19 23:55:52.011 +04:00 [WRN] No store type was specified for the decimal property 'SalePrice' on entity type 'Drug'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-12-19 23:55:52.352 +04:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-12-19 23:55:53.618 +04:00 [INF] Executed DbCommand (58ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[Barcode], [d].[CategoryId], [d].[CreatedAt], [d].[CreatedDate], [d].[ExpireDate], [d].[IsActive], [d].[Name], [d].[SalePrice], [d].[StockQuantity]
+FROM [Drugs] AS [d]
+2025-12-19 23:55:53.786 +04:00 [INF] Retrieved all categories: [
+  {
+    "Name": "Paracetamol",
+    "Description": null,
+    "Price": 0,
+    "QuantityInStock": 0,
+    "CategoryId": 1,
+    "Barcode": "1234567890123",
+    "Id": 2
+  }
+]
+2025-12-19 23:55:53.799 +04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Pharmacy.BLL.Dtos.DrugDto, Pharmacy.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-19 23:55:53.815 +04:00 [INF] Executed action Pharmacy.WebAPI.Controllers.DrugController.GetAll (Pharmacy.WebAPI) in 3198.3536ms
+2025-12-19 23:55:53.819 +04:00 [INF] Executed endpoint 'Pharmacy.WebAPI.Controllers.DrugController.GetAll (Pharmacy.WebAPI)'
+2025-12-19 23:55:53.833 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/api/Drug - 200 null application/json; charset=utf-8 3278.9307ms

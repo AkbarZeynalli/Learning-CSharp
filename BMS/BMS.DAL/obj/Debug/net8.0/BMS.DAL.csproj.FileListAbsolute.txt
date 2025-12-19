@@ -1,0 +1,15 @@
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.csproj.AssemblyReference.cache
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.AssemblyInfoInputs.cache
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.AssemblyInfo.cs
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.csproj.CoreCompileInputs.cache
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.sourcelink.json
+D:\Learning\BMS\BMS.DAL\bin\Debug\net8.0\BMS.DAL.deps.json
+D:\Learning\BMS\BMS.DAL\bin\Debug\net8.0\BMS.DAL.runtimeconfig.json
+D:\Learning\BMS\BMS.DAL\bin\Debug\net8.0\BMS.DAL.dll
+D:\Learning\BMS\BMS.DAL\bin\Debug\net8.0\BMS.DAL.pdb
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.dll
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\refint\BMS.DAL.dll
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.pdb
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\BMS.DAL.genruntimeconfig.cache
+D:\Learning\BMS\BMS.DAL\obj\Debug\net8.0\ref\BMS.DAL.dll

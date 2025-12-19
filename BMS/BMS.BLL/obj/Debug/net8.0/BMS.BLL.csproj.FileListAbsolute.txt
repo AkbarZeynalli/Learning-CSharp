@@ -1,0 +1,16 @@
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.csproj.AssemblyReference.cache
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.AssemblyInfoInputs.cache
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.AssemblyInfo.cs
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.csproj.CoreCompileInputs.cache
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.sourcelink.json
+D:\Learning\BMS\BMS.BLL\bin\Debug\net8.0\BMS.BLL.deps.json
+D:\Learning\BMS\BMS.BLL\bin\Debug\net8.0\BMS.BLL.dll
+D:\Learning\BMS\BMS.BLL\bin\Debug\net8.0\BMS.BLL.pdb
+D:\Learning\BMS\BMS.BLL\bin\Debug\net8.0\BMS.DAL.dll
+D:\Learning\BMS\BMS.BLL\bin\Debug\net8.0\BMS.DAL.pdb
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.csproj.Up2Date
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.dll
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\refint\BMS.BLL.dll
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\BMS.BLL.pdb
+D:\Learning\BMS\BMS.BLL\obj\Debug\net8.0\ref\BMS.BLL.dll
