@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Learning\\Pharmacy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C9D8BBE-F166-4523-8DC3-1B2BDD4489DA}|Pharmacy.BLL\\Pharmacy.BLL.csproj|d:\\learning\\pharmacy\\pharmacy.bll\\services\\drugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9D8BBE-F166-4523-8DC3-1B2BDD4489DA}|Pharmacy.BLL\\Pharmacy.BLL.csproj|solutionrelative:pharmacy.bll\\services\\drugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C9D8BBE-F166-4523-8DC3-1B2BDD4489DA}|Pharmacy.BLL\\Pharmacy.BLL.csproj|d:\\learning\\pharmacy\\pharmacy.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C9D8BBE-F166-4523-8DC3-1B2BDD4489DA}|Pharmacy.BLL\\Pharmacy.BLL.csproj|solutionrelative:pharmacy.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E969A5-4EDA-4FDC-8C0F-46CD3A7CE5F4}|Pharmacy.WebAPI\\Pharmacy.WebAPI.csproj|d:\\learning\\pharmacy\\pharmacy.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E969A5-4EDA-4FDC-8C0F-46CD3A7CE5F4}|Pharmacy.WebAPI\\Pharmacy.WebAPI.csproj|solutionrelative:pharmacy.webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9D8BBE-F166-4523-8DC3-1B2BDD4489DA}|Pharmacy.BLL\\Pharmacy.BLL.csproj|d:\\learning\\pharmacy\\pharmacy.bll\\services\\drugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9D8BBE-F166-4523-8DC3-1B2BDD4489DA}|Pharmacy.BLL\\Pharmacy.BLL.csproj|solutionrelative:pharmacy.bll\\services\\drugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +22,28 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Learning\\Pharmacy\\Pharmacy.WebAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Pharmacy.WebAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Learning\\Pharmacy\\Pharmacy.WebAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Pharmacy.WebAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T19:58:29.713Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DrugService.cs",
               "DocumentMoniker": "D:\\Learning\\Pharmacy\\Pharmacy.BLL\\Services\\DrugService.cs",
               "RelativeDocumentMoniker": "Pharmacy.BLL\\Services\\DrugService.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\Learning\\Pharmacy\\Pharmacy.BLL\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Pharmacy.BLL\\Services\\CategoryService.cs",
