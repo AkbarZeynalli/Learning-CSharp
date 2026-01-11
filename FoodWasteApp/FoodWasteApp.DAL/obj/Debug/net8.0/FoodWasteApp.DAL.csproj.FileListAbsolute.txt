@@ -1,0 +1,15 @@
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\bin\Debug\net8.0\FoodWasteApp.DAL.deps.json
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\bin\Debug\net8.0\FoodWasteApp.DAL.runtimeconfig.json
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\bin\Debug\net8.0\FoodWasteApp.DAL.dll
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\bin\Debug\net8.0\FoodWasteApp.DAL.pdb
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.csproj.AssemblyReference.cache
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.AssemblyInfoInputs.cache
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.AssemblyInfo.cs
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.csproj.CoreCompileInputs.cache
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.sourcelink.json
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.dll
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\refint\FoodWasteApp.DAL.dll
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.pdb
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\FoodWasteApp.DAL.genruntimeconfig.cache
+D:\Learning\FoodWasteApp\FoodWasteApp.DAL\obj\Debug\net8.0\ref\FoodWasteApp.DAL.dll

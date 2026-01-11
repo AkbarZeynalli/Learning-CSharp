@@ -1,0 +1,6 @@
+@FoodWasteApp.WebAPI_HostAddress = http://localhost:5171
+
+GET {{FoodWasteApp.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
