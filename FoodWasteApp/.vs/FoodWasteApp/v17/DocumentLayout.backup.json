@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Learning\\FoodWasteApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7974C36-1F21-4315-B620-E2262900A211}|FoodWasteApp.DAL\\FoodWasteApp.DAL.csproj|d:\\learning\\foodwasteapp\\foodwasteapp.dal\\migrations\\20260112131127_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7974C36-1F21-4315-B620-E2262900A211}|FoodWasteApp.DAL\\FoodWasteApp.DAL.csproj|solutionrelative:foodwasteapp.dal\\migrations\\20260112131127_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82F76DF8-E7F4-4937-9206-9401B98BAA9B}|FoodWasteApp.WebAPI\\FoodWasteApp.WebAPI.csproj|d:\\learning\\foodwasteapp\\foodwasteapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F76DF8-E7F4-4937-9206-9401B98BAA9B}|FoodWasteApp.WebAPI\\FoodWasteApp.WebAPI.csproj|solutionrelative:foodwasteapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96D3C399-B4D8-4490-B4C9-BBBADA2BB241}|FoodWasteApp.BLL\\FoodWasteApp.BLL.csproj|d:\\learning\\foodwasteapp\\foodwasteapp.bll\\services\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3C399-B4D8-4490-B4C9-BBBADA2BB241}|FoodWasteApp.BLL\\FoodWasteApp.BLL.csproj|solutionrelative:foodwasteapp.bll\\services\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260112131127_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.DAL\\Migrations\\20260112131127_InitialCreate.cs",
-              "RelativeDocumentMoniker": "FoodWasteApp.DAL\\Migrations\\20260112131127_InitialCreate.cs",
-              "ToolTip": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.DAL\\Migrations\\20260112131127_InitialCreate.cs",
-              "RelativeToolTip": "FoodWasteApp.DAL\\Migrations\\20260112131127_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:11:28.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "FoodWasteApp.WebAPI\\Program.cs",
-              "ToolTip": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.WebAPI\\Program.cs",
-              "RelativeToolTip": "FoodWasteApp.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBQAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:09:20.589Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodItemService.cs",
+              "DocumentMoniker": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.BLL\\Services\\FoodItemService.cs",
+              "RelativeDocumentMoniker": "FoodWasteApp.BLL\\Services\\FoodItemService.cs",
+              "ToolTip": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.BLL\\Services\\FoodItemService.cs",
+              "RelativeToolTip": "FoodWasteApp.BLL\\Services\\FoodItemService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T15:38:53.552Z",
+              "EditorCaption": ""
             }
           ]
         },

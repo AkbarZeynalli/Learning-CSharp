@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Learning\\FoodWasteApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96D3C399-B4D8-4490-B4C9-BBBADA2BB241}|FoodWasteApp.BLL\\FoodWasteApp.BLL.csproj|d:\\learning\\foodwasteapp\\foodwasteapp.bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96D3C399-B4D8-4490-B4C9-BBBADA2BB241}|FoodWasteApp.BLL\\FoodWasteApp.BLL.csproj|solutionrelative:foodwasteapp.bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82F76DF8-E7F4-4937-9206-9401B98BAA9B}|FoodWasteApp.WebAPI\\FoodWasteApp.WebAPI.csproj|d:\\learning\\foodwasteapp\\foodwasteapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F76DF8-E7F4-4937-9206-9401B98BAA9B}|FoodWasteApp.WebAPI\\FoodWasteApp.WebAPI.csproj|solutionrelative:foodwasteapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.BLL\\Dtos\\UserDto.cs",
-              "RelativeDocumentMoniker": "FoodWasteApp.BLL\\Dtos\\UserDto.cs",
-              "ToolTip": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.BLL\\Dtos\\UserDto.cs",
-              "RelativeToolTip": "FoodWasteApp.BLL\\Dtos\\UserDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAuAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FoodWasteApp.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.WebAPI\\Program.cs",
+              "RelativeToolTip": "FoodWasteApp.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:18:25.143Z",
+              "WhenOpened": "2026-01-12T22:13:59.917Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         },

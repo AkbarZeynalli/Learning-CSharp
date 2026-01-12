@@ -4,12 +4,7 @@ using Pharmacy.BLL.Dtos;
 using Pharmacy.BLL.Services.Interfaces;
 using Pharmacy.DAL.Models;
 using Pharmacy.DAL.Repository;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace Pharmacy.BLL.Services
 {
@@ -35,9 +30,10 @@ namespace Pharmacy.BLL.Services
             _logger.LogInformation("Added new category with ID {CategoryId}", entity.Id);
         }
 
+
         public async Task DeleteAsync(int id)
         {
-            var exists = await _categoryRepository.Exists(id);
+            var exists = await _categoryRepository.Exists(id); 
             if (!exists)
             {
                 _logger.LogWarning("Attempted to delete non-existing category with ID {CategoryId}", id);
