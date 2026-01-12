@@ -1,0 +1,16 @@
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\bin\Debug\net8.0\FoodWasteApp.BLL.deps.json
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\bin\Debug\net8.0\FoodWasteApp.BLL.dll
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\bin\Debug\net8.0\FoodWasteApp.BLL.pdb
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\bin\Debug\net8.0\FoodWasteApp.DAL.dll
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\bin\Debug\net8.0\FoodWasteApp.DAL.pdb
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWasteApp.BLL.csproj.AssemblyReference.cache
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWasteApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWasteApp.BLL.AssemblyInfoInputs.cache
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWasteApp.BLL.AssemblyInfo.cs
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWasteApp.BLL.csproj.CoreCompileInputs.cache
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWasteApp.BLL.sourcelink.json
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWast.A4B32C3C.Up2Date
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWasteApp.BLL.dll
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\refint\FoodWasteApp.BLL.dll
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\FoodWasteApp.BLL.pdb
+D:\Learning\FoodWasteApp\FoodWasteApp.BLL\obj\Debug\net8.0\ref\FoodWasteApp.BLL.dll

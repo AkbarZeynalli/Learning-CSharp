@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodWasteApp.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e436022b18f6f682ec42bc691121b2e4c03a11f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04b00581e721f79aeafa86391f1de8c955dac41a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodWasteApp.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodWasteApp.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
