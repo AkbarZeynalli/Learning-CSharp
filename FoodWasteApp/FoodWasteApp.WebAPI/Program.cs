@@ -3,7 +3,6 @@ using FoodWasteApp.BLL.Mapper;
 using FoodWasteApp.BLL.Services;
 using FoodWasteApp.BLL.Services.Interfaces;
 using FoodWasteApp.DAL.Data;
-using FoodWasteApp.DAL.Models;
 using FoodWasteApp.DAL.Repository;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
@@ -41,6 +40,9 @@ namespace FoodWasteApp.WebAPI
             builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             builder.Services.AddScoped<IFoodItemService,FoodItemService>();
             builder.Services.AddScoped<IReservationService,ReservationService>();
+            builder.Services.AddScoped<IResturantService,ResturantService>();
+            builder.Services.AddScoped<IReviewService,ReviewService>();
+            builder.Services.AddScoped<IUserService,UserService>();
 
             var app = builder.Build();
 

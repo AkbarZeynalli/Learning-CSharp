@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +32,10 @@
               "RelativeDocumentMoniker": "Pharmacy.BLL\\Services\\CategoryService.cs",
               "ToolTip": "D:\\Learning\\Pharmacy\\Pharmacy.BLL\\Services\\CategoryService.cs",
               "RelativeToolTip": "Pharmacy.BLL\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAcwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T21:26:15.405Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Pharmacy.WebAPI\\Program.cs",
               "ToolTip": "D:\\Learning\\Pharmacy\\Pharmacy.WebAPI\\Program.cs",
               "RelativeToolTip": "Pharmacy.WebAPI\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCkAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T15:47:03.193Z",
               "EditorCaption": ""
