@@ -1,14 +1,10 @@
 ﻿using AutoMapper;
+using Microsoft.Extensions.Logging;
+using FoodWasteApp.BLL.Dtos;
 using FoodWasteApp.BLL.Services.Interfaces;
 using FoodWasteApp.DAL.Models;
 using FoodWasteApp.DAL.Repository;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace FoodWasteApp.BLL.Services
 {
@@ -25,7 +21,7 @@ namespace FoodWasteApp.BLL.Services
             _logger = logger;
         }
 
-        public async Task AddAsync(User dto)
+        public async Task AddAsync(UserDto dto)
         {
             var json = JsonSerializer.Serialize(dto, new JsonSerializerOptions { WriteIndented = true });
             _logger.LogInformation("Adding new user: {UserDto}", json);
@@ -60,20 +56,20 @@ namespace FoodWasteApp.BLL.Services
             return exists;
         }
 
-        public List<User> GetAll()
+        public List<UserDto> GetAll()
         {
             var entities = _userRepository.GetAll().ToList();
-            var dtos = _mapper.Map<List<User>>(entities);
+            var dtos = _mapper.Map<List<UserDto>>(entities);
 
             var json = JsonSerializer.Serialize(dtos, new JsonSerializerOptions { WriteIndented = true });
             _logger.LogInformation("Retrieved all users: {UserDtos}", json);
             return dtos;
         }
 
-        public async Task<User?> GetByIdAsync(int id)
+        public async Task<UserDto?> GetByIdAsync(int id)
         {
             var entity = await _userRepository.GetByIdAsync(id);
-            var dto = _mapper.Map<User?>(entity);
+            var dto = _mapper.Map<UserDto?>(entity);
             if(dto != null)
             {
                 var json = JsonSerializer.Serialize(dto, new JsonSerializerOptions { WriteIndented = true });
@@ -86,13 +82,13 @@ namespace FoodWasteApp.BLL.Services
             return dto;
         }
 
-        public async Task UpdateAsync(User dto)
+        public async Task UpdateAsync(UserDto dto)
         {
-            var entity = await _userRepository.GetByIdAsync(dto.ID);
+            var entity =  await _userRepository.GetByIdAsync(dto.Id);
 
             await _userRepository.UpdateAsync(_mapper.Map(dto, entity));
             var json = JsonSerializer.Serialize(dto, new JsonSerializerOptions { WriteIndented = true });
-            _logger.LogInformation("Updated user with ID {UserId}: {UserDto}", dto.ID, json);
+            _logger.LogInformation("Updated user with ID {UserId}: {UserDto}", dto.Id, json);
 
         }
     }

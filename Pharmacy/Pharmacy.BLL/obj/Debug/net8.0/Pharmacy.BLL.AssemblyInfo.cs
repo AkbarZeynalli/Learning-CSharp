@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pharmacy.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a238b4bbeada0c67e8ce26918077608bce49ffaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42233e19fef9a31c0a24dbb0d288fb3d252c7fc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pharmacy.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pharmacy.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

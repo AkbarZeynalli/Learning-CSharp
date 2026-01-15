@@ -1,14 +1,10 @@
 ﻿using AutoMapper;
+using FoodWasteApp.BLL.Dtos;
 using FoodWasteApp.BLL.Services.Interfaces;
 using FoodWasteApp.DAL.Models;
 using FoodWasteApp.DAL.Repository;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace FoodWasteApp.BLL.Services
 {
@@ -25,7 +21,7 @@ namespace FoodWasteApp.BLL.Services
             _logger = logger;
         }
 
-        public async Task AddAsync(Review dto)
+        public async Task AddAsync(ReviewDto dto)
         {
             var json = JsonSerializer.Serialize(dto, new JsonSerializerOptions { WriteIndented = true });
             _logger.LogInformation("Adding new review: {ReviewDto}", json);
@@ -60,20 +56,20 @@ namespace FoodWasteApp.BLL.Services
             return exists;
         }
 
-        public List<Review> GetAll()
+        public List<ReviewDto> GetAll()
         {
             var entities = _reviewRepository.GetAll().ToList();
-            var dtos = _mapper.Map<List<Review>>(entities);
+            var dtos = _mapper.Map<List<ReviewDto>>(entities);
 
             var json = JsonSerializer.Serialize(dtos, new JsonSerializerOptions { WriteIndented = true });
             _logger.LogInformation("Retrieved all reviews: {Reviews}", json);
             return dtos;
         }
 
-        public async Task<Review?> GetByIdAsync(int id)
+        public async Task<ReviewDto?> GetByIdAsync(int id)
         {
             var entity = await _reviewRepository.GetByIdAsync(id);
-            var dto = _mapper.Map<Review?>(entity);
+            var dto = _mapper.Map<ReviewDto?>(entity);
             if (dto != null)
             {
                 var json = JsonSerializer.Serialize(dto, new JsonSerializerOptions { WriteIndented = true });
@@ -84,15 +80,16 @@ namespace FoodWasteApp.BLL.Services
                 _logger.LogWarning("Review with ID: {ReviewId} not found", id);
             }
             return dto;
+
         }
 
-        public async Task UpdateAsync(Review dto)
+        public async Task UpdateAsync(ReviewDto dto)
         {
-            var entity = await _reviewRepository.GetByIdAsync(dto.ID);
+            var entity = await _reviewRepository.GetByIdAsync(dto.Id);
 
             await _reviewRepository.UpdateAsync(entity!);
             var json = JsonSerializer.Serialize(dto, new JsonSerializerOptions { WriteIndented = true });
-            _logger.LogInformation("Updated review with ID: {ReviewId}: {ReviewDto}", dto.ID, json);    
+            _logger.LogInformation("Updated review with ID: {ReviewId}: {ReviewDto}", dto.Id, json);    
         }
     }
 }

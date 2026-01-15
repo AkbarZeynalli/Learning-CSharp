@@ -12,7 +12,7 @@ namespace Pharmacy.WebAPI.Controllers
     {
         private readonly ILogger<CategoryController> _logger;
         private readonly ICategoryService _categoryService;
-        private readonly ILogger<CategoryController> _drugLogger;
+        //private readonly ILogger<CategoryController> _drugLogger;
 
         public CategoryController(ILogger<CategoryController> logger, ICategoryService categoryService)
         {
@@ -27,7 +27,7 @@ namespace Pharmacy.WebAPI.Controllers
             // JSON-u beautify edirik
             var json = JsonConvert.SerializeObject(categories, Newtonsoft.Json.Formatting.Indented);
 
-            // Loglama
+            // Loglama  
             _logger.LogInformation("Retrieved categories:\n{JsonData}", json);
             return Ok(categories);
         }

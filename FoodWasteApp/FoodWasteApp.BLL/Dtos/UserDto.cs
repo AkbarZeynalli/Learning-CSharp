@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FoodWasteApp.BLL.Dtos
 {
-    public record UserDto
+    public record UserDto:BaseDto
     {
         public string FullName { get; set; }
         public string Email { get; set; }

@@ -1,0 +1,81 @@
+2026-01-14 23:03:51.363 +04:00 [INF] Now listening on: https://localhost:7139
+2026-01-14 23:03:51.476 +04:00 [INF] Now listening on: http://localhost:5051
+2026-01-14 23:03:51.797 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-14 23:03:51.829 +04:00 [INF] Hosting environment: Development
+2026-01-14 23:03:51.832 +04:00 [INF] Content root path: D:\Learning\Pharmacy\Pharmacy.WebAPI
+2026-01-14 23:03:52.761 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger - null null
+2026-01-14 23:03:53.170 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger - 301 0 null 426.6877ms
+2026-01-14 23:03:53.181 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/index.html - null null
+2026-01-14 23:03:53.461 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/index.html - 200 null text/html;charset=utf-8 279.7605ms
+2026-01-14 23:03:53.530 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/swagger-ui.css - null null
+2026-01-14 23:03:53.581 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_vs/browserLink - null null
+2026-01-14 23:03:53.549 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/swagger-ui-bundle.js - null null
+2026-01-14 23:03:53.553 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-14 23:03:53.553 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/swagger-ui-standalone-preset.js - null null
+2026-01-14 23:03:53.690 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 136.6414ms
+2026-01-14 23:03:53.759 +04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-01-14 23:03:53.759 +04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-01-14 23:03:53.778 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 228.9396ms
+2026-01-14 23:03:53.778 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/swagger-ui.css - 200 152034 text/css 247.3935ms
+2026-01-14 23:03:53.827 +04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-01-14 23:03:53.841 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 293.075ms
+2026-01-14 23:03:53.857 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_vs/browserLink - 200 null text/javascript; charset=UTF-8 284.9019ms
+2026-01-14 23:03:54.378 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - null null
+2026-01-14 23:03:54.411 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 32.9347ms
+2026-01-14 23:03:54.427 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/favicon-32x32.png - null null
+2026-01-14 23:03:54.435 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-01-14 23:03:54.442 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/favicon-32x32.png - 200 628 image/png 16.036ms
+2026-01-14 23:04:17.884 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/api/Category - null null
+2026-01-14 23:04:17.944 +04:00 [INF] Executing endpoint 'Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI)'
+2026-01-14 23:04:18.006 +04:00 [INF] Route matched with {action = "GetAll", controller = "Category"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller Pharmacy.WebAPI.Controllers.CategoryController (Pharmacy.WebAPI).
+2026-01-14 23:04:21.982 +04:00 [WRN] No store type was specified for the decimal property 'SalePrice' on entity type 'Drug'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-01-14 23:04:22.468 +04:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-01-14 23:04:27.107 +04:00 [INF] Executed DbCommand (163ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[CreatedDate], [c].[Name]
+FROM [Categories] AS [c]
+2026-01-14 23:04:27.366 +04:00 [INF] Retrieved all categories: [
+  {
+    "Name": "Paracetamol",
+    "Id": 1
+  },
+  {
+    "Name": "qripxod",
+    "Id": 2
+  }
+]
+2026-01-14 23:04:27.693 +04:00 [INF] Retrieved categories:
+[
+  {
+    "Name": "Paracetamol",
+    "Id": 1
+  },
+  {
+    "Name": "qripxod",
+    "Id": 2
+  }
+]
+2026-01-14 23:04:27.726 +04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Pharmacy.BLL.Dtos.CategoryDto, Pharmacy.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-14 23:04:27.746 +04:00 [INF] Executed action Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI) in 9722.9515ms
+2026-01-14 23:04:27.752 +04:00 [INF] Executed endpoint 'Pharmacy.WebAPI.Controllers.CategoryController.GetAll (Pharmacy.WebAPI)'
+2026-01-14 23:04:27.777 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/api/Category - 200 null application/json; charset=utf-8 9893.7801ms
+2026-01-14 23:04:38.170 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/api/Drug - null null
+2026-01-14 23:04:38.197 +04:00 [INF] Executing endpoint 'Pharmacy.WebAPI.Controllers.DrugController.GetAll (Pharmacy.WebAPI)'
+2026-01-14 23:04:38.208 +04:00 [INF] Route matched with {action = "GetAll", controller = "Drug"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller Pharmacy.WebAPI.Controllers.DrugController (Pharmacy.WebAPI).
+2026-01-14 23:04:38.441 +04:00 [INF] Executed DbCommand (31ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[Barcode], [d].[CategoryId], [d].[CreatedAt], [d].[CreatedDate], [d].[ExpireDate], [d].[IsActive], [d].[Name], [d].[SalePrice], [d].[StockQuantity]
+FROM [Drugs] AS [d]
+2026-01-14 23:04:38.533 +04:00 [INF] Retrieved all categories: [
+  {
+    "Name": "Paracetamol",
+    "Description": null,
+    "Price": 0,
+    "QuantityInStock": 0,
+    "CategoryId": 1,
+    "Barcode": "1234567890123",
+    "Id": 2
+  }
+]
+2026-01-14 23:04:38.544 +04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Pharmacy.BLL.Dtos.DrugDto, Pharmacy.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-14 23:04:38.575 +04:00 [INF] Executed action Pharmacy.WebAPI.Controllers.DrugController.GetAll (Pharmacy.WebAPI) in 356.9855ms
+2026-01-14 23:04:38.585 +04:00 [INF] Executed endpoint 'Pharmacy.WebAPI.Controllers.DrugController.GetAll (Pharmacy.WebAPI)'
+2026-01-14 23:04:38.589 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/api/Drug - 200 null application/json; charset=utf-8 419.1593ms

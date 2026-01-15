@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodWasteApp.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04b00581e721f79aeafa86391f1de8c955dac41a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42233e19fef9a31c0a24dbb0d288fb3d252c7fc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodWasteApp.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodWasteApp.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
