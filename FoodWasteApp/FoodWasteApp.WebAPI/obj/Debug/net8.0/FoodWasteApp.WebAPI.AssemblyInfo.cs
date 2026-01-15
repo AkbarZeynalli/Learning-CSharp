@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodWasteApp.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+316af50dd0ab0e994b8e1f243c5e424fcefd2e20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaab7651888ae6fba9e9cb2ce6173ae3cb9b2379")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodWasteApp.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodWasteApp.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

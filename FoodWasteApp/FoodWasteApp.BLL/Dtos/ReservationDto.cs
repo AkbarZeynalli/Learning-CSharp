@@ -13,15 +13,9 @@ namespace FoodWasteApp.BLL.Dtos
         public int FoodItemId { get; set; }
 
         public int Quantity { get; set; }
-        public decimal TotalPrice { get; set; }
 
-        public DateTime ReservationTime { get; set; }
         public DateTime PickupTime { get; set; }
-        public DateTime? ActualPickupTime { get; set; }
 
-        public ReservationStatus Status { get; set; }
-
-        public string? CancellationReason { get; set; }
-        public string? Notes { get; set; }
+        //public string? Notes { get; set; }
     }
 }

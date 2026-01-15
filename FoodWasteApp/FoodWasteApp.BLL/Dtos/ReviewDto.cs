@@ -14,7 +14,5 @@ namespace FoodWasteApp.BLL.Dtos
         public int Rating { get; set; }
         public string? Comment { get; set; }
 
-        public bool IsVerified { get; set; }
-        public int HelpfulCount { get; set; }
     }
 }
