@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Learning\\FoodWasteApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Learning\\FoodWasteApp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{82F76DF8-E7F4-4937-9206-9401B98BAA9B}|FoodWasteApp.WebAPI\\FoodWasteApp.WebAPI.csproj|d:\\learning\\foodwasteapp\\foodwasteapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F76DF8-E7F4-4937-9206-9401B98BAA9B}|FoodWasteApp.WebAPI\\FoodWasteApp.WebAPI.csproj|solutionrelative:foodwasteapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82F76DF8-E7F4-4937-9206-9401B98BAA9B}|FoodWasteApp.WebAPI\\FoodWasteApp.WebAPI.csproj|d:\\learning\\foodwasteapp\\foodwasteapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\Learning\\FoodWasteApp\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "D:\\Learning\\FoodWasteApp\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-01-16T08:18:15.289Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FoodWasteApp.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.WebAPI\\Program.cs",
+              "RelativeToolTip": "FoodWasteApp.WebAPI\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:21:29.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,9 +45,9 @@
               "RelativeDocumentMoniker": "FoodWasteApp.WebAPI\\appsettings.Development.json",
               "ToolTip": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.WebAPI\\appsettings.Development.json",
               "RelativeToolTip": "FoodWasteApp.WebAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-16T08:08:08.39Z",
+              "WhenOpened": "2026-01-16T17:15:44.071Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,16 @@
+2026-01-16 21:11:27.380 +04:00 [INF] Now listening on: https://localhost:7139
+2026-01-16 21:11:27.425 +04:00 [INF] Now listening on: http://localhost:5051
+2026-01-16 21:11:27.786 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-16 21:11:27.789 +04:00 [INF] Hosting environment: Development
+2026-01-16 21:11:27.791 +04:00 [INF] Content root path: D:\Learning\Pharmacy\Pharmacy.WebAPI
+2026-01-16 21:11:29.694 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/index.html - null null
+2026-01-16 21:11:30.131 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/index.html - 200 null text/html;charset=utf-8 454.0061ms
+2026-01-16 21:11:30.193 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-16 21:11:30.193 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/_vs/browserLink - null null
+2026-01-16 21:11:30.206 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 13.1513ms
+2026-01-16 21:11:30.308 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/_vs/browserLink - 200 null text/javascript; charset=UTF-8 115.3539ms
+2026-01-16 21:11:30.625 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - null null
+2026-01-16 21:11:30.659 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 34.7846ms
+2026-01-16 21:11:30.662 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7139/swagger/favicon-32x32.png - null null
+2026-01-16 21:11:30.700 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-01-16 21:11:30.703 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7139/swagger/favicon-32x32.png - 200 628 image/png 41.5954ms
