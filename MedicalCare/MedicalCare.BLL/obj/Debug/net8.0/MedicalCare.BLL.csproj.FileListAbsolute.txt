@@ -1,0 +1,16 @@
+D:\Learning\MedicalCare\MedicalCare.BLL\bin\Debug\net8.0\MedicalCare.BLL.deps.json
+D:\Learning\MedicalCare\MedicalCare.BLL\bin\Debug\net8.0\MedicalCare.BLL.dll
+D:\Learning\MedicalCare\MedicalCare.BLL\bin\Debug\net8.0\MedicalCare.BLL.pdb
+D:\Learning\MedicalCare\MedicalCare.BLL\bin\Debug\net8.0\MedicalCare.DAL.dll
+D:\Learning\MedicalCare\MedicalCare.BLL\bin\Debug\net8.0\MedicalCare.DAL.pdb
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalCare.BLL.csproj.AssemblyReference.cache
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalCare.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalCare.BLL.AssemblyInfoInputs.cache
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalCare.BLL.AssemblyInfo.cs
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalCare.BLL.csproj.CoreCompileInputs.cache
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalCare.BLL.sourcelink.json
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalC.74EFD865.Up2Date
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalCare.BLL.dll
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\refint\MedicalCare.BLL.dll
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\MedicalCare.BLL.pdb
+D:\Learning\MedicalCare\MedicalCare.BLL\obj\Debug\net8.0\ref\MedicalCare.BLL.dll

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace MedicalCare.DAL.Models.Enums
 {
-    internal class AppointmentStatus
+    public enum AppointmentStatus
     {
+        Pending = 0,       // Gözləyir (həkim təsdiq etməyib)
+        Confirmed = 1,     // Təsdiqlənib
+        Cancelled = 2,     // Ləğv edilib
+        Completed = 3,     // Tamamlanıb
+        NoShow = 4         // Xəstə gəlməyib
     }
 }

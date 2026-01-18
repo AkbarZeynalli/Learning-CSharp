@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MedicalCare.BLL/1.0.0": {
+        "dependencies": {
+          "MedicalCare.DAL": "1.0.0"
+        },
+        "runtime": {
+          "MedicalCare.BLL.dll": {}
+        }
+      },
+      "MedicalCare.DAL/1.0.0": {
+        "runtime": {
+          "MedicalCare.DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedicalCare.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MedicalCare.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

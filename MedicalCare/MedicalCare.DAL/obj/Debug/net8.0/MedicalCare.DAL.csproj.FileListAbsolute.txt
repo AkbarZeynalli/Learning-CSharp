@@ -1,0 +1,12 @@
+D:\Learning\MedicalCare\MedicalCare.DAL\bin\Debug\net8.0\MedicalCare.DAL.deps.json
+D:\Learning\MedicalCare\MedicalCare.DAL\bin\Debug\net8.0\MedicalCare.DAL.dll
+D:\Learning\MedicalCare\MedicalCare.DAL\bin\Debug\net8.0\MedicalCare.DAL.pdb
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.AssemblyInfoInputs.cache
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.AssemblyInfo.cs
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.csproj.CoreCompileInputs.cache
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.sourcelink.json
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.dll
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\refint\MedicalCare.DAL.dll
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.pdb
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\ref\MedicalCare.DAL.dll

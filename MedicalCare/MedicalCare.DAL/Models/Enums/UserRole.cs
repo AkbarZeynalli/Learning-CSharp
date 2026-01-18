@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace MedicalCare.DAL.Models.Enums
 {
-    internal class UserRole
+    public enum UserRole
     {
+        Patient = 0,
+        Doctor = 1,
+        Admin = 2
     }
 }
