@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\FoodWasteApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7974C36-1F21-4315-B620-E2262900A211}|FoodWasteApp.DAL\\FoodWasteApp.DAL.csproj|d:\\learning\\foodwasteapp\\foodwasteapp.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7974C36-1F21-4315-B620-E2262900A211}|FoodWasteApp.DAL\\FoodWasteApp.DAL.csproj|solutionrelative:foodwasteapp.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.DAL\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "FoodWasteApp.DAL\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\Learning\\FoodWasteApp\\FoodWasteApp.DAL\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "FoodWasteApp.DAL\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:09:50.451Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
