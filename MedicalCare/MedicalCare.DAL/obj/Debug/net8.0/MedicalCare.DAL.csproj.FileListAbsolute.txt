@@ -10,3 +10,6 @@ D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.dll
 D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\refint\MedicalCare.DAL.dll
 D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.pdb
 D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\ref\MedicalCare.DAL.dll
+D:\Learning\MedicalCare\MedicalCare.DAL\bin\Debug\net8.0\MedicalCare.DAL.runtimeconfig.json
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.csproj.AssemblyReference.cache
+D:\Learning\MedicalCare\MedicalCare.DAL\obj\Debug\net8.0\MedicalCare.DAL.genruntimeconfig.cache

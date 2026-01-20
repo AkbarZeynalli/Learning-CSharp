@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\MedicalCare\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\MedicalCare\\MedicalCare.DAL\\Migrations\\20260120161123_FixMedicalRecordCascadee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MedicalCare.DAL\\Migrations\\20260120161123_FixMedicalRecordCascadee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B5785A-763D-4989-847E-A6F304845AF1}|MedicalCare.DAL\\MedicalCare.DAL.csproj|d:\\learning\\medicalcare\\medicalcare.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B5785A-763D-4989-847E-A6F304845AF1}|MedicalCare.DAL\\MedicalCare.DAL.csproj|solutionrelative:medicalcare.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0FBE48-21D1-4CF8-8445-ACEEFB774534}|MedicalCare.WebAPI\\MedicalCare.WebAPI.csproj|d:\\learning\\medicalcare\\medicalcare.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F0FBE48-21D1-4CF8-8445-ACEEFB774534}|MedicalCare.WebAPI\\MedicalCare.WebAPI.csproj|solutionrelative:medicalcare.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\MedicalCare\\MedicalCare.DAL\\Migrations\\20260120160452_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MedicalCare.DAL\\Migrations\\20260120160452_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260120161123_FixMedicalRecordCascadee.cs",
+              "DocumentMoniker": "D:\\Learning\\MedicalCare\\MedicalCare.DAL\\Migrations\\20260120161123_FixMedicalRecordCascadee.cs",
+              "RelativeDocumentMoniker": "MedicalCare.DAL\\Migrations\\20260120161123_FixMedicalRecordCascadee.cs",
+              "ToolTip": "D:\\Learning\\MedicalCare\\MedicalCare.DAL\\Migrations\\20260120161123_FixMedicalRecordCascadee.cs",
+              "RelativeToolTip": "MedicalCare.DAL\\Migrations\\20260120161123_FixMedicalRecordCascadee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:11:23.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Learning\\MedicalCare\\MedicalCare.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MedicalCare.WebAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\Learning\\MedicalCare\\MedicalCare.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "MedicalCare.WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-20T16:07:10.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260120160452_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Learning\\MedicalCare\\MedicalCare.DAL\\Migrations\\20260120160452_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MedicalCare.DAL\\Migrations\\20260120160452_InitialCreate.cs",
+              "ToolTip": "D:\\Learning\\MedicalCare\\MedicalCare.DAL\\Migrations\\20260120160452_InitialCreate.cs",
+              "RelativeToolTip": "MedicalCare.DAL\\Migrations\\20260120160452_InitialCreate.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:04:53.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\MedicalCare\\MedicalCare.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MedicalCare.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learning\\MedicalCare\\MedicalCare.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MedicalCare.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA2wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:47:41.788Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
